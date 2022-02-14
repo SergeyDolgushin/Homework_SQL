@@ -1,0 +1,1599 @@
+{
+  "artists": "Чайф",
+  "albums": [
+    {
+      "album": "Оранжевое настроение-III",
+      "release_date": "2021-02-05",
+      "id_spotify": "5BFG61LC8oM60AfrDVBuxn",
+      "tracks": [
+        {
+          "track": "Чудесные тихие песни",
+          "duration": 271499
+        },
+        {
+          "track": "Слишком много джаза, мама",
+          "duration": 249564
+        },
+        {
+          "track": "Планета секонд-хенд",
+          "duration": 247892
+        },
+        {
+          "track": "Нарисуй",
+          "duration": 244150
+        },
+        {
+          "track": "Песня джедая",
+          "duration": 179599
+        },
+        {
+          "track": "Не теряй надежду",
+          "duration": 304448
+        },
+        {
+          "track": "Иваныч-блюз",
+          "duration": 181614
+        },
+        {
+          "track": "Песен лучшие слова",
+          "duration": 290072
+        },
+        {
+          "track": "Чёрные бушлаты",
+          "duration": 181367
+        },
+        {
+          "track": "Беги",
+          "duration": 265517
+        }
+      ]
+    },
+    {
+      "album": "Слова на бумаге",
+      "release_date": "2019-11-22",
+      "id_spotify": "763dobBL91Z9yfGxkcOSpa",
+      "tracks": [
+        {
+          "track": "Чей чай горячей - Original Version",
+          "duration": 250465
+        },
+        {
+          "track": "Ночью выпал снег",
+          "duration": 240533
+        },
+        {
+          "track": "Все девушки Бонда",
+          "duration": 271748
+        },
+        {
+          "track": "Время придёт выбирать",
+          "duration": 262227
+        },
+        {
+          "track": "Что мы делали в прошедшем году",
+          "duration": 267867
+        },
+        {
+          "track": "Подождать летних трав",
+          "duration": 271343
+        },
+        {
+          "track": "Мишель",
+          "duration": 291370
+        },
+        {
+          "track": "Колесо чудес",
+          "duration": 251606
+        },
+        {
+          "track": "Хэллоуин",
+          "duration": 275189
+        }
+      ]
+    },
+    {
+      "album": "Немного похоже на блюз (Remastered)",
+      "release_date": "2018-07-13",
+      "id_spotify": "4i2XLMiMtfpDrc4uAyboyo",
+      "tracks": [
+        {
+          "track": "Немного похоже на блюз - Remastered",
+          "duration": 340799
+        },
+        {
+          "track": "Пятница - Remastered",
+          "duration": 254382
+        },
+        {
+          "track": "Чудо-труба - Remastered",
+          "duration": 191668
+        },
+        {
+          "track": "Сентиментальный блюз - Remastered",
+          "duration": 181666
+        },
+        {
+          "track": "Шаляй-Валяй - Remastered",
+          "duration": 179527
+        },
+        {
+          "track": "Пригородный блюз #3 - Remastered",
+          "duration": 363051
+        },
+        {
+          "track": "Шорохи в саду - Remastered",
+          "duration": 210382
+        },
+        {
+          "track": "Звони - Remastered",
+          "duration": 222800
+        },
+        {
+          "track": "Рок-н-ролл этой ночи - Remastered",
+          "duration": 230681
+        },
+        {
+          "track": "Мой блюз - Remastered",
+          "duration": 313437
+        },
+        {
+          "track": "Не говори никому - Remastered",
+          "duration": 269500
+        },
+        {
+          "track": "Не мечтали - Remastered",
+          "duration": 249469
+        },
+        {
+          "track": "Похмельная - Remastered",
+          "duration": 335274
+        },
+        {
+          "track": "Почтальон - Remastered",
+          "duration": 174028
+        },
+        {
+          "track": "Кошка - Remastered",
+          "duration": 184195
+        },
+        {
+          "track": "Что такое зима - Remastered",
+          "duration": 209180
+        },
+        {
+          "track": "Мой фильм - Remastered",
+          "duration": 242780
+        },
+        {
+          "track": "Маленький белый ход - Remastered",
+          "duration": 326236
+        },
+        {
+          "track": "Его имя - Remastered",
+          "duration": 216335
+        },
+        {
+          "track": "Не зови - Remastered",
+          "duration": 313395
+        }
+      ]
+    },
+    {
+      "album": "Теория струн",
+      "release_date": "2017-02-18",
+      "id_spotify": "2nV3QGP3V21uzTrSWFCgoQ",
+      "tracks": [
+        {
+          "track": "Мой блюз",
+          "duration": 313437
+        },
+        {
+          "track": "Время не ждёт",
+          "duration": 279419
+        },
+        {
+          "track": "Четверо парней",
+          "duration": 220406
+        },
+        {
+          "track": "Ковбои",
+          "duration": 184020
+        },
+        {
+          "track": "А у нас как всегда",
+          "duration": 279598
+        },
+        {
+          "track": "Про бобра и барабан",
+          "duration": 205155
+        },
+        {
+          "track": "Чей чай горячей",
+          "duration": 234088
+        },
+        {
+          "track": "Кто-то хитрый",
+          "duration": 149983
+        },
+        {
+          "track": "Пусть всё будет так, как ты захочешь",
+          "duration": 259731
+        },
+        {
+          "track": "Поплачь о нём",
+          "duration": 374670
+        },
+        {
+          "track": "Завяжи мне глаза",
+          "duration": 158191
+        },
+        {
+          "track": "Всему своё время",
+          "duration": 183829
+        },
+        {
+          "track": "Дуля с маком",
+          "duration": 278808
+        }
+      ]
+    },
+    {
+      "album": "ЧАЙФ. 30 лет (Рождённый в Свердловске) [The Best]",
+      "release_date": "2015-01-01",
+      "id_spotify": "1bdaThIgEC6Na2TKvOxCF1",
+      "tracks": [
+        {
+          "track": "Город мой",
+          "duration": 254750
+        },
+        {
+          "track": "Вольный ветер",
+          "duration": 215003
+        },
+        {
+          "track": "Время не ждёт",
+          "duration": 281285
+        },
+        {
+          "track": "Камарека",
+          "duration": 186441
+        },
+        {
+          "track": "Кончается век (Не проспать бы)",
+          "duration": 290478
+        },
+        {
+          "track": "Точка",
+          "duration": 227312
+        },
+        {
+          "track": "Псы с городских окраин",
+          "duration": 277721
+        },
+        {
+          "track": "Никто не услышит (Ой-йо)",
+          "duration": 263808
+        },
+        {
+          "track": "Рок - мой выбор",
+          "duration": 205514
+        },
+        {
+          "track": "Матаня (Среднеуральская)",
+          "duration": 191471
+        },
+        {
+          "track": "Но это так",
+          "duration": 327262
+        },
+        {
+          "track": "Белая ворона",
+          "duration": 176500
+        },
+        {
+          "track": "Дом вверх дном",
+          "duration": 151800
+        },
+        {
+          "track": "Кто-то хитрый",
+          "duration": 159520
+        },
+        {
+          "track": "Для себя, для него, для меня",
+          "duration": 262500
+        },
+        {
+          "track": "Поменялся",
+          "duration": 265652
+        },
+        {
+          "track": "Не доводи до предела",
+          "duration": 235521
+        },
+        {
+          "track": "За годом год",
+          "duration": 201028
+        },
+        {
+          "track": "Аргентина-Ямайка - 5:0",
+          "duration": 196689
+        },
+        {
+          "track": "В её глазах",
+          "duration": 261792
+        }
+      ]
+    },
+    {
+      "album": "Кино, вино и домино",
+      "release_date": "2013-05-27",
+      "id_spotify": "54mv8bDyRDG2jtKODP2N5z",
+      "tracks": [
+        {
+          "track": "Рок - мой выбор",
+          "duration": 206209
+        },
+        {
+          "track": "Тук, в самом сердце тук",
+          "duration": 243389
+        },
+        {
+          "track": "Поменялся",
+          "duration": 268421
+        },
+        {
+          "track": "Точка",
+          "duration": 227524
+        },
+        {
+          "track": "Река-море",
+          "duration": 259177
+        },
+        {
+          "track": "Немного похоже на блюз",
+          "duration": 340353
+        },
+        {
+          "track": "Для себя, для него, для меня",
+          "duration": 266355
+        },
+        {
+          "track": "Почтальон",
+          "duration": 174480
+        },
+        {
+          "track": "Зелёный пиджак",
+          "duration": 232879
+        },
+        {
+          "track": "Дом вверх дном",
+          "duration": 151979
+        },
+        {
+          "track": "Секрет",
+          "duration": 282277
+        },
+        {
+          "track": "Небесный диджей",
+          "duration": 262970
+        },
+        {
+          "track": "Нет горизонта",
+          "duration": 474507
+        }
+      ]
+    },
+    {
+      "album": "Зимняя акустика. Снежные сны (Live)",
+      "release_date": "2011-04-21",
+      "id_spotify": "45M0vGhrOpre6KWmK7lLiu",
+      "tracks": [
+        {
+          "track": "Волна простоты - Live",
+          "duration": 243952
+        },
+        {
+          "track": "Твои сны - Live",
+          "duration": 227827
+        },
+        {
+          "track": "Вперёд - Live",
+          "duration": 224042
+        },
+        {
+          "track": "Мне не хватает - Live",
+          "duration": 218482
+        },
+        {
+          "track": "Давай вернёмся - Live",
+          "duration": 386910
+        },
+        {
+          "track": "Матаня - Live",
+          "duration": 211977
+        },
+        {
+          "track": "Я тебя не нашёл (Уже) - Live",
+          "duration": 248799
+        },
+        {
+          "track": "Завяжи мне глаза - Live",
+          "duration": 173452
+        },
+        {
+          "track": "Моя квартира - Live",
+          "duration": 330362
+        },
+        {
+          "track": "Кто-то хитрый - Live",
+          "duration": 205220
+        },
+        {
+          "track": "Не спи, Серёга - Live",
+          "duration": 233573
+        },
+        {
+          "track": "Высота - Live",
+          "duration": 224665
+        },
+        {
+          "track": "Секрет - Live",
+          "duration": 329772
+        },
+        {
+          "track": "Время не ждёт - Live",
+          "duration": 294314
+        },
+        {
+          "track": "Никто не услышит (Ой-йо) - Live",
+          "duration": 318708
+        },
+        {
+          "track": "Уезжаю - Live",
+          "duration": 232770
+        },
+        {
+          "track": "Ангел - Live",
+          "duration": 231859
+        },
+        {
+          "track": "Аргентина-Ямайка - 5:0 - Live",
+          "duration": 317860
+        },
+        {
+          "track": "Шаляй-Валяй - Live",
+          "duration": 247717
+        },
+        {
+          "track": "Внеплановый концерт - Live",
+          "duration": 434239
+        }
+      ]
+    },
+    {
+      "album": "Оранжевое настроение-V",
+      "release_date": "2008-01-01",
+      "id_spotify": "2EPOSaOK93nvd389akkAgk",
+      "tracks": [
+        {
+          "track": "Камнепад",
+          "duration": 231940
+        },
+        {
+          "track": "Легенда о былых мужьях",
+          "duration": 205097
+        },
+        {
+          "track": "Провокатор",
+          "duration": 140299
+        },
+        {
+          "track": "Джинсовый фрак",
+          "duration": 215109
+        },
+        {
+          "track": "Жизнь в розовом дыму",
+          "duration": 210422
+        },
+        {
+          "track": "Сентиментальный блюз",
+          "duration": 185004
+        },
+        {
+          "track": "Солдатик",
+          "duration": 125112
+        },
+        {
+          "track": "Шабенина (первое прочтение)",
+          "duration": 156479
+        },
+        {
+          "track": "Она",
+          "duration": 223586
+        },
+        {
+          "track": "Сплин",
+          "duration": 215760
+        },
+        {
+          "track": "33 маршрут",
+          "duration": 239692
+        },
+        {
+          "track": "Правильный мальчик",
+          "duration": 244970
+        },
+        {
+          "track": "Нахреноза",
+          "duration": 127559
+        }
+      ]
+    },
+    {
+      "album": "От себя",
+      "release_date": "2006-05-16",
+      "id_spotify": "33HzZFwGqPT54GoYncoWQC",
+      "tracks": [
+        {
+          "track": "От себя",
+          "duration": 298902
+        },
+        {
+          "track": "Не мечтали",
+          "duration": 248493
+        },
+        {
+          "track": "Ангел",
+          "duration": 224762
+        },
+        {
+          "track": "Белая птица",
+          "duration": 333245
+        },
+        {
+          "track": "Если бы я был",
+          "duration": 199040
+        },
+        {
+          "track": "Пригородный блюз",
+          "duration": 361574
+        },
+        {
+          "track": "У обочины",
+          "duration": 200404
+        },
+        {
+          "track": "Снился мне Аль Пачино",
+          "duration": 205263
+        },
+        {
+          "track": "А у нас как всегда",
+          "duration": 284438
+        },
+        {
+          "track": "Никогда не поздно",
+          "duration": 292508
+        },
+        {
+          "track": "Бедная собачка",
+          "duration": 133967
+        },
+        {
+          "track": "За годом год",
+          "duration": 206278
+        }
+      ]
+    },
+    {
+      "album": "Изумрудные хиты",
+      "release_date": "2005-03-17",
+      "id_spotify": "2lNQrlFrMeapSPQRwPloPB",
+      "tracks": [
+        {
+          "track": "Вольный ветер",
+          "duration": 220605
+        },
+        {
+          "track": "Матаня (Среднеуральская)",
+          "duration": 191545
+        },
+        {
+          "track": "За полшага",
+          "duration": 237088
+        },
+        {
+          "track": "Африка",
+          "duration": 199728
+        },
+        {
+          "track": "Аргентина-Ямайка - 5:0",
+          "duration": 209371
+        },
+        {
+          "track": "Сальто назад",
+          "duration": 293115
+        },
+        {
+          "track": "Всему своё время",
+          "duration": 216186
+        },
+        {
+          "track": "Никто не услышит (Ой-йо)",
+          "duration": 285472
+        },
+        {
+          "track": "Пиво",
+          "duration": 178723
+        },
+        {
+          "track": "С войны",
+          "duration": 314507
+        },
+        {
+          "track": "В её глазах",
+          "duration": 276144
+        },
+        {
+          "track": "Не спеши",
+          "duration": 234226
+        },
+        {
+          "track": "Оранжевое настроение",
+          "duration": 322519
+        },
+        {
+          "track": "В ночь по новым адресам",
+          "duration": 265537
+        }
+      ]
+    },
+    {
+      "album": "48",
+      "release_date": "2003-05-20",
+      "id_spotify": "1Jw0XN5h0efUfkxK6OZhxY",
+      "tracks": [
+        {
+          "track": "Доктор, доктор",
+          "duration": 243907
+        },
+        {
+          "track": "За полшага",
+          "duration": 246283
+        },
+        {
+          "track": "Африка",
+          "duration": 218614
+        },
+        {
+          "track": "Он и твоя любовь",
+          "duration": 248670
+        },
+        {
+          "track": "Сальто назад",
+          "duration": 305867
+        },
+        {
+          "track": "В ночь по новым адресам",
+          "duration": 233401
+        },
+        {
+          "track": "Париж",
+          "duration": 252105
+        },
+        {
+          "track": "Но это так",
+          "duration": 327606
+        },
+        {
+          "track": "Уезжаю",
+          "duration": 211155
+        },
+        {
+          "track": "Конец",
+          "duration": 280399
+        },
+        {
+          "track": "Клён - Бонус-трек",
+          "duration": 235148
+        }
+      ]
+    },
+    {
+      "album": "Оранжевое настроение - IV",
+      "release_date": "2001-12-26",
+      "id_spotify": "4E04T3ywB0iwGOJYW52vEh",
+      "tracks": [
+        {
+          "track": "На трамвайной колбасе",
+          "duration": 279493
+        },
+        {
+          "track": "Чудо-труба",
+          "duration": 193253
+        },
+        {
+          "track": "Италия",
+          "duration": 246386
+        },
+        {
+          "track": "Шорохи в саду",
+          "duration": 212640
+        },
+        {
+          "track": "Эко ладно",
+          "duration": 189800
+        },
+        {
+          "track": "Мариванна",
+          "duration": 244826
+        },
+        {
+          "track": "Фудзияма",
+          "duration": 184346
+        },
+        {
+          "track": "Дурные сны",
+          "duration": 184466
+        },
+        {
+          "track": "Хей-хей",
+          "duration": 241160
+        },
+        {
+          "track": "Ляля",
+          "duration": 253533
+        },
+        {
+          "track": "Звони",
+          "duration": 224293
+        },
+        {
+          "track": "Оранжевое настроение - Версия четвёртая",
+          "duration": 350346
+        }
+      ]
+    },
+    {
+      "album": "Время не ждёт",
+      "release_date": "2001-04-20",
+      "id_spotify": "36d9joQG7ZInTJwccqjHW5",
+      "tracks": [
+        {
+          "track": "Не зови",
+          "duration": 312641
+        },
+        {
+          "track": "Мимо",
+          "duration": 210814
+        },
+        {
+          "track": "Дурные вести",
+          "duration": 194132
+        },
+        {
+          "track": "Время не ждёт",
+          "duration": 283237
+        },
+        {
+          "track": "Не доводи до предела",
+          "duration": 235574
+        },
+        {
+          "track": "Обе подруги",
+          "duration": 197988
+        },
+        {
+          "track": "Камарека",
+          "duration": 187181
+        },
+        {
+          "track": "Она мила",
+          "duration": 233954
+        },
+        {
+          "track": "Его имя",
+          "duration": 215080
+        },
+        {
+          "track": "Чёрные дыры",
+          "duration": 286771
+        }
+      ]
+    },
+    {
+      "album": "Шекогали",
+      "release_date": "1999-04-29",
+      "id_spotify": "6xiqVEwgorVTJasJj7RHLc",
+      "tracks": [
+        {
+          "track": "Кончается век (Не проспать бы)",
+          "duration": 299968
+        },
+        {
+          "track": "Мой фильм",
+          "duration": 243558
+        },
+        {
+          "track": "В её глазах",
+          "duration": 263782
+        },
+        {
+          "track": "Твоя светлая муза",
+          "duration": 225024
+        },
+        {
+          "track": "Сентябрь",
+          "duration": 331966
+        },
+        {
+          "track": "Аргентина-Ямайка - 5:0",
+          "duration": 196932
+        },
+        {
+          "track": "На воле (Кошка)",
+          "duration": 184656
+        },
+        {
+          "track": "Матаня (Cреднеуральская)",
+          "duration": 194646
+        },
+        {
+          "track": "Маленький белый ход",
+          "duration": 325751
+        },
+        {
+          "track": "Завяжи мне глаза",
+          "duration": 172246
+        },
+        {
+          "track": "Я рисую на окне (Шкала)",
+          "duration": 237167
+        },
+        {
+          "track": "Мы делаем шаг",
+          "duration": 262208
+        },
+        {
+          "track": "Шекогали до зари",
+          "duration": 219668
+        }
+      ]
+    },
+    {
+      "album": "Дуля с маком",
+      "release_date": "1998-01-01",
+      "id_spotify": "3vjOuhcxQmTjoiVJxzlmNW",
+      "tracks": [
+        {
+          "track": "Будильник",
+          "duration": 204840
+        },
+        {
+          "track": "Если все будут делать то же",
+          "duration": 149706
+        },
+        {
+          "track": "Религия",
+          "duration": 266893
+        },
+        {
+          "track": "Мама, мы все актёры этого театра",
+          "duration": 229493
+        },
+        {
+          "track": "Кот",
+          "duration": 212066
+        },
+        {
+          "track": "Ave Мария",
+          "duration": 261404
+        },
+        {
+          "track": "Высота",
+          "duration": 204946
+        },
+        {
+          "track": "Я заполняю тобой",
+          "duration": 250453
+        },
+        {
+          "track": "Интервью",
+          "duration": 176693
+        },
+        {
+          "track": "Это",
+          "duration": 190000
+        },
+        {
+          "track": "Дуля с маком",
+          "duration": 292093
+        },
+        {
+          "track": "Крепость",
+          "duration": 231440
+        },
+        {
+          "track": "Делай мне больно",
+          "duration": 220013
+        }
+      ]
+    },
+    {
+      "album": "Дерьмонтин",
+      "release_date": "1997-05-22",
+      "id_spotify": "6mBHTAKEIesB6WFHRpOEWv",
+      "tracks": [
+        {
+          "track": "Шаляй-валяй",
+          "duration": 137520
+        },
+        {
+          "track": "Твои слова красивы",
+          "duration": 164586
+        },
+        {
+          "track": "Четверть века",
+          "duration": 117586
+        },
+        {
+          "track": "Белая ворона",
+          "duration": 192080
+        },
+        {
+          "track": "Вольный ветер",
+          "duration": 237586
+        },
+        {
+          "track": "Вместе теплей",
+          "duration": 205293
+        },
+        {
+          "track": "Рок-н-ролл это я",
+          "duration": 249106
+        },
+        {
+          "track": "Рок-н-ролл этой ночи",
+          "duration": 189626
+        },
+        {
+          "track": "Балалайка-блюз",
+          "duration": 38266
+        },
+        {
+          "track": "Ветер-шалун",
+          "duration": 236986
+        },
+        {
+          "track": "Сибирский тракт",
+          "duration": 177546
+        },
+        {
+          "track": "Шабенина",
+          "duration": 123160
+        },
+        {
+          "track": "Лучший город Европы",
+          "duration": 216200
+        },
+        {
+          "track": "Пилот Косяков",
+          "duration": 118333
+        }
+      ]
+    },
+    {
+      "album": "Реальный мир",
+      "release_date": "1996-12-18",
+      "id_spotify": "1nnWaOJUAqDqOnwivga3B9",
+      "tracks": [
+        {
+          "track": "Не со мной",
+          "duration": 296626
+        },
+        {
+          "track": "Скажи только слово",
+          "duration": 236213
+        },
+        {
+          "track": "К тебе я полечу",
+          "duration": 259480
+        },
+        {
+          "track": "Твои сны",
+          "duration": 248533
+        },
+        {
+          "track": "Всё хорошо",
+          "duration": 254293
+        },
+        {
+          "track": "Пятница",
+          "duration": 263840
+        },
+        {
+          "track": "Спой мне песню про любовь",
+          "duration": 368666
+        },
+        {
+          "track": "Дорога",
+          "duration": 249266
+        },
+        {
+          "track": "Кто-то хитрый",
+          "duration": 165333
+        },
+        {
+          "track": "Письмо",
+          "duration": 328186
+        },
+        {
+          "track": "Силы небесные",
+          "duration": 216186
+        },
+        {
+          "track": "Реальный мир",
+          "duration": 298026
+        }
+      ]
+    },
+    {
+      "album": "Оранжевое настроение-II",
+      "release_date": "1996-01-01",
+      "id_spotify": "1iJbf56AdD9exxz5n1XH4Z",
+      "tracks": [
+        {
+          "track": "Шаляй-валяй",
+          "duration": 179240
+        },
+        {
+          "track": "Волна простоты",
+          "duration": 217226
+        },
+        {
+          "track": "Твои слова красивы",
+          "duration": 163386
+        },
+        {
+          "track": "Моя квартира",
+          "duration": 246640
+        },
+        {
+          "track": "Мне не хватает",
+          "duration": 186040
+        },
+        {
+          "track": "25 лет (четверть века)",
+          "duration": 125160
+        },
+        {
+          "track": "Белая ворона",
+          "duration": 183533
+        },
+        {
+          "track": "Раскрепощение",
+          "duration": 266466
+        },
+        {
+          "track": "Блюз ночного дворника",
+          "duration": 136026
+        },
+        {
+          "track": "Это",
+          "duration": 166240
+        },
+        {
+          "track": "Религия",
+          "duration": 263240
+        },
+        {
+          "track": "Пилот косяков",
+          "duration": 132800
+        },
+        {
+          "track": "Скотина",
+          "duration": 265560
+        },
+        {
+          "track": "Легкомысленный вальс (Тю-лю-лю)",
+          "duration": 168266
+        },
+        {
+          "track": "Где вы, где",
+          "duration": 282466
+        },
+        {
+          "track": "Я видел металл",
+          "duration": 194373
+        },
+        {
+          "track": "Высота",
+          "duration": 225293
+        },
+        {
+          "track": "Рок-н-ролл этой ночи",
+          "duration": 231773
+        },
+        {
+          "track": "Эта игра",
+          "duration": 254226
+        },
+        {
+          "track": "Дуля с маком",
+          "duration": 274800
+        }
+      ]
+    },
+    {
+      "album": "Пусть всё будет так, как ты захочешь",
+      "release_date": "1995-04-10",
+      "id_spotify": "3SlCmB3kJHrnWM8r13Sy9y",
+      "tracks": [
+        {
+          "track": "Я тебя не нашёл (Уже)",
+          "duration": 214493
+        },
+        {
+          "track": "Четверо парней",
+          "duration": 240146
+        },
+        {
+          "track": "Пусть тебе приснится",
+          "duration": 283760
+        },
+        {
+          "track": "Но это так",
+          "duration": 345080
+        },
+        {
+          "track": "Город мой",
+          "duration": 257266
+        },
+        {
+          "track": "17 лет",
+          "duration": 270213
+        },
+        {
+          "track": "Джип-бип-папа",
+          "duration": 192640
+        },
+        {
+          "track": "Давай просто уйдём",
+          "duration": 308186
+        },
+        {
+          "track": "Антипаровозная",
+          "duration": 235973
+        },
+        {
+          "track": "Песня рыб",
+          "duration": 27720
+        },
+        {
+          "track": "Тайный знак",
+          "duration": 245266
+        },
+        {
+          "track": "Для меня (Похмельная)",
+          "duration": 334586
+        }
+      ]
+    },
+    {
+      "album": "Концерт",
+      "release_date": "1995-04-01",
+      "id_spotify": "6tUkUaR5pZx6BIvSfhGK4M",
+      "tracks": [
+        {
+          "track": "Вперёд - Live",
+          "duration": 211066
+        },
+        {
+          "track": "Будильник - Live",
+          "duration": 234400
+        },
+        {
+          "track": "Оранжевое настроение - Live",
+          "duration": 210933
+        },
+        {
+          "track": "Я был солдатом - Live",
+          "duration": 197066
+        },
+        {
+          "track": "Гимн солнцу (Бичи) - Live",
+          "duration": 273000
+        },
+        {
+          "track": "Вчера была любовь - Live",
+          "duration": 234560
+        },
+        {
+          "track": "Город мой - Live",
+          "duration": 249173
+        },
+        {
+          "track": "Давай вернёмся (Про бухло) - Live",
+          "duration": 328266
+        },
+        {
+          "track": "Пусть тебе приснится - Live",
+          "duration": 244866
+        },
+        {
+          "track": "Никто не услышит (Ой-йо) - Live",
+          "duration": 279093
+        },
+        {
+          "track": "Способ - Live",
+          "duration": 204240
+        },
+        {
+          "track": "Не дай мне повод - Live",
+          "duration": 204626
+        },
+        {
+          "track": "Мама, она больше не может - Live",
+          "duration": 372000
+        },
+        {
+          "track": "Джип-бип-папа - Live",
+          "duration": 202720
+        },
+        {
+          "track": "Внеплановый концерт - Live",
+          "duration": 405920
+        },
+        {
+          "track": "Антипаровозная - Live",
+          "duration": 253746
+        },
+        {
+          "track": "Но это так - Live",
+          "duration": 321133
+        },
+        {
+          "track": "Пиво - Live",
+          "duration": 138013
+        },
+        {
+          "track": "Шабенина - Live",
+          "duration": 274800
+        },
+        {
+          "track": "Тайный знак - Live",
+          "duration": 246693
+        }
+      ]
+    },
+    {
+      "album": "Концерт",
+      "release_date": "1995-01-01",
+      "id_spotify": "5wVL97T4HBCWgKWxnEqWQG",
+      "tracks": [
+        {
+          "track": "Будильник",
+          "duration": 234400
+        },
+        {
+          "track": "Вперёд",
+          "duration": 211066
+        },
+        {
+          "track": "Оранжевое настроение",
+          "duration": 210933
+        },
+        {
+          "track": "Я был солдатом",
+          "duration": 197093
+        },
+        {
+          "track": "Гимн солнцу",
+          "duration": 272986
+        },
+        {
+          "track": "Вчера была любовь",
+          "duration": 234560
+        },
+        {
+          "track": "Город мой",
+          "duration": 249160
+        },
+        {
+          "track": "Давай вернёмся",
+          "duration": 328293
+        },
+        {
+          "track": "Пусть тебе приснится",
+          "duration": 244853
+        },
+        {
+          "track": "Никто не услышит (Ой-йо)",
+          "duration": 279106
+        },
+        {
+          "track": "Способ",
+          "duration": 204213
+        },
+        {
+          "track": "Не дай мне повод",
+          "duration": 204640
+        },
+        {
+          "track": "Мама, она больше не может...",
+          "duration": 372000
+        },
+        {
+          "track": "Зажги огонь в моих глазах",
+          "duration": 263520
+        },
+        {
+          "track": "Джип-бип-папа",
+          "duration": 202720
+        },
+        {
+          "track": "Антипаровозная",
+          "duration": 253746
+        },
+        {
+          "track": "Но это так",
+          "duration": 321133
+        },
+        {
+          "track": "Внеплановый концерт",
+          "duration": 405920
+        },
+        {
+          "track": "Пиво",
+          "duration": 138013
+        },
+        {
+          "track": "Шабенина",
+          "duration": 274800
+        }
+      ]
+    },
+    {
+      "album": "Оранжевое настроение",
+      "release_date": "1994-05-15",
+      "id_spotify": "1NlTwaeB0t6XkAbmNhJ964",
+      "tracks": [
+        {
+          "track": "Пиво",
+          "duration": 148440
+        },
+        {
+          "track": "Вольный ветер",
+          "duration": 213253
+        },
+        {
+          "track": "Традиционная (Для Майка)",
+          "duration": 158013
+        },
+        {
+          "track": "Сибирский тракт",
+          "duration": 244186
+        },
+        {
+          "track": "Зинаида",
+          "duration": 207800
+        },
+        {
+          "track": "У взморья",
+          "duration": 200493
+        },
+        {
+          "track": "Гимн солнцу (Бичи)",
+          "duration": 212853
+        },
+        {
+          "track": "Оранжевое настроение",
+          "duration": 233133
+        },
+        {
+          "track": "Я заполняю тобой",
+          "duration": 234133
+        },
+        {
+          "track": "Ионсам",
+          "duration": 225053
+        },
+        {
+          "track": "Вместе теплей",
+          "duration": 220226
+        },
+        {
+          "track": "Блюз простого человека",
+          "duration": 189253
+        }
+      ]
+    },
+    {
+      "album": "Дети гор",
+      "release_date": "1993-04-10",
+      "id_spotify": "5a8vtmCNMxG2oQe3amGqr2",
+      "tracks": [
+        {
+          "track": "Мама, она больше не может...",
+          "duration": 353789
+        },
+        {
+          "track": "Трамвай",
+          "duration": 253986
+        },
+        {
+          "track": "Зажги огонь в моих глазах",
+          "duration": 255488
+        },
+        {
+          "track": "Внеплановый концерт",
+          "duration": 317564
+        },
+        {
+          "track": "Не спеши",
+          "duration": 228827
+        },
+        {
+          "track": "А то",
+          "duration": 239256
+        },
+        {
+          "track": "Не говори никому",
+          "duration": 302892
+        },
+        {
+          "track": "Не дай мне повод",
+          "duration": 206434
+        },
+        {
+          "track": "Псы с городских окраин",
+          "duration": 279580
+        },
+        {
+          "track": "У зимнего моря",
+          "duration": 359084
+        }
+      ]
+    },
+    {
+      "album": "Четвёртый стул",
+      "release_date": "1991-01-01",
+      "id_spotify": "5OdlQrmxqrWQVl2QkbEf7E",
+      "tracks": [
+        {
+          "track": "Ковбои",
+          "duration": 203092
+        },
+        {
+          "track": "Утро, прощай",
+          "duration": 266496
+        },
+        {
+          "track": "Вчера была любовь",
+          "duration": 239757
+        },
+        {
+          "track": "Я был солдатом",
+          "duration": 195348
+        },
+        {
+          "track": "Всему своё время",
+          "duration": 206755
+        },
+        {
+          "track": "Что такое зима",
+          "duration": 208958
+        },
+        {
+          "track": "Неохота",
+          "duration": 273391
+        },
+        {
+          "track": "Вперёд",
+          "duration": 214229
+        },
+        {
+          "track": "Квадратный вальс",
+          "duration": 183977
+        },
+        {
+          "track": "Завяжи мне глаза",
+          "duration": 172650
+        },
+        {
+          "track": "Мой блюз",
+          "duration": 289163
+        }
+      ]
+    },
+    {
+      "album": "Не беда",
+      "release_date": "1990-02-15",
+      "id_spotify": "6heCML6JsA1gq0H4UxYfae",
+      "tracks": [
+        {
+          "track": "Ошейник",
+          "duration": 255413
+        },
+        {
+          "track": "В городе трёх революций",
+          "duration": 266693
+        },
+        {
+          "track": "Гады",
+          "duration": 219786
+        },
+        {
+          "track": "Крепость",
+          "duration": 294853
+        },
+        {
+          "track": "Как тебя зовут",
+          "duration": 181693
+        },
+        {
+          "track": "Способ",
+          "duration": 203200
+        },
+        {
+          "track": "Не беда",
+          "duration": 390013
+        },
+        {
+          "track": "Поплачь о нём",
+          "duration": 323520
+        },
+        {
+          "track": "Песенка про гадость",
+          "duration": 335343
+        }
+      ]
+    },
+    {
+      "album": "Давай вернёмся",
+      "release_date": "1990-01-01",
+      "id_spotify": "6PcwK5b9aQ7UYYyvhnDNxo",
+      "tracks": [
+        {
+          "track": "С войны",
+          "duration": 332628
+        },
+        {
+          "track": "Матрос",
+          "duration": 272210
+        },
+        {
+          "track": "Оставь нам нашу любовь",
+          "duration": 283923
+        },
+        {
+          "track": "Открытие",
+          "duration": 238122
+        },
+        {
+          "track": "Там где нет ничего (Молодёжная)",
+          "duration": 201232
+        },
+        {
+          "track": "Ой-йо",
+          "duration": 265431
+        },
+        {
+          "track": "Псы с городских окраин",
+          "duration": 302417
+        },
+        {
+          "track": "Давай вернёмся (Про бухло)",
+          "duration": 326141
+        },
+        {
+          "track": "Крепость",
+          "duration": 288312
+        },
+        {
+          "track": "Поплачь о нём",
+          "duration": 378237
+        }
+      ]
+    }
+  ]
+}

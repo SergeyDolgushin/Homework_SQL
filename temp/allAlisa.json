@@ -1,0 +1,571 @@
+{
+  "artists": "Алиса",
+  "albums": [
+    {
+      "album": "Посолонь",
+      "release_date": "2019-09-06",
+      "id_spotify": "2KNGugXPdIODotuaGr4a8O",
+      "tracks": [
+        {
+          "track": "Посолонь",
+          "duration": 277684
+        },
+        {
+          "track": "Под дождём",
+          "duration": 343289
+        },
+        {
+          "track": "Путь держим на север",
+          "duration": 279662
+        },
+        {
+          "track": "Половодье",
+          "duration": 309492
+        },
+        {
+          "track": "Окаянные дни",
+          "duration": 373771
+        },
+        {
+          "track": "Раскол",
+          "duration": 344923
+        },
+        {
+          "track": "Пуля",
+          "duration": 249200
+        },
+        {
+          "track": "Побег",
+          "duration": 219818
+        },
+        {
+          "track": "Эшелон",
+          "duration": 672844
+        },
+        {
+          "track": "Москва",
+          "duration": 365349
+        },
+        {
+          "track": "Леший",
+          "duration": 267917
+        },
+        {
+          "track": "Сверх",
+          "duration": 360300
+        },
+        {
+          "track": "Акробаты снов",
+          "duration": 278631
+        },
+        {
+          "track": "Чудо",
+          "duration": 265225
+        },
+        {
+          "track": "Март",
+          "duration": 348147
+        }
+      ]
+    },
+    {
+      "album": "Эксцесс",
+      "release_date": "2016-09-23",
+      "id_spotify": "4Dphp54zpOESCKmCRgHnWs",
+      "tracks": [
+        {
+          "track": "Эксцесс",
+          "duration": 362400
+        },
+        {
+          "track": "Новый мир",
+          "duration": 247426
+        },
+        {
+          "track": "Колобок",
+          "duration": 290306
+        },
+        {
+          "track": "За полдня до весны",
+          "duration": 207160
+        },
+        {
+          "track": "Шлак",
+          "duration": 213733
+        },
+        {
+          "track": "Дайте каплю огня",
+          "duration": 278306
+        },
+        {
+          "track": "Нае@али",
+          "duration": 220866
+        },
+        {
+          "track": "Дети последних дней",
+          "duration": 245413
+        },
+        {
+          "track": "Rock`n`Roll жесток",
+          "duration": 274866
+        },
+        {
+          "track": "Трибунал любви",
+          "duration": 349626
+        },
+        {
+          "track": "Полёт",
+          "duration": 371960
+        },
+        {
+          "track": "Емеля",
+          "duration": 300320
+        }
+      ]
+    },
+    {
+      "album": "Цирк",
+      "release_date": "2014-09-19",
+      "id_spotify": "4B1hv1FFiGCEaXMDxSGOj0",
+      "tracks": [
+        {
+          "track": "Цирк",
+          "duration": 247440
+        },
+        {
+          "track": "Кайф и истерика",
+          "duration": 276893
+        },
+        {
+          "track": "Ток шок рок",
+          "duration": 217386
+        },
+        {
+          "track": "Такие дела, хозяин",
+          "duration": 206813
+        },
+        {
+          "track": "Охота",
+          "duration": 233920
+        },
+        {
+          "track": "Шанс",
+          "duration": 446080
+        },
+        {
+          "track": "Шаги",
+          "duration": 202386
+        },
+        {
+          "track": "Засада",
+          "duration": 283400
+        },
+        {
+          "track": "Прыг-скок",
+          "duration": 187573
+        },
+        {
+          "track": "Музыка",
+          "duration": 232666
+        },
+        {
+          "track": "Гаси",
+          "duration": 161826
+        },
+        {
+          "track": "Когда окончится день",
+          "duration": 378133
+        }
+      ]
+    },
+    {
+      "album": "Саботаж",
+      "release_date": "2012-09-29",
+      "id_spotify": "0SxZZqdUiyJ1ygwlr9aLgx",
+      "tracks": [
+        {
+          "track": "День огня",
+          "duration": 358813
+        },
+        {
+          "track": "Крах",
+          "duration": 203520
+        },
+        {
+          "track": "Жги",
+          "duration": 362773
+        },
+        {
+          "track": "Кошмар",
+          "duration": 245653
+        },
+        {
+          "track": "Взрыв",
+          "duration": 270933
+        },
+        {
+          "track": "С Ним",
+          "duration": 268213
+        },
+        {
+          "track": "Ангел",
+          "duration": 362893
+        },
+        {
+          "track": "Черви",
+          "duration": 296333
+        },
+        {
+          "track": "Черная полоса",
+          "duration": 278600
+        },
+        {
+          "track": "Сны",
+          "duration": 187746
+        },
+        {
+          "track": "Саботаж",
+          "duration": 282160
+        },
+        {
+          "track": "Рок",
+          "duration": 241720
+        },
+        {
+          "track": "Левша",
+          "duration": 244493
+        },
+        {
+          "track": "Нальём!",
+          "duration": 296840
+        }
+      ]
+    },
+    {
+      "album": "20.12",
+      "release_date": "2011-09-25",
+      "id_spotify": "1jBP4xaJGCjq36AlQvCmdj",
+      "tracks": [
+        {
+          "track": "Арифметика",
+          "duration": 180106
+        },
+        {
+          "track": "Шейк",
+          "duration": 307080
+        },
+        {
+          "track": "Руны",
+          "duration": 309586
+        },
+        {
+          "track": "20.12",
+          "duration": 235200
+        },
+        {
+          "track": "Война",
+          "duration": 361586
+        },
+        {
+          "track": "Прыть",
+          "duration": 240506
+        },
+        {
+          "track": "Капля Солнца",
+          "duration": 257773
+        },
+        {
+          "track": "Качели",
+          "duration": 345786
+        },
+        {
+          "track": "Пульс",
+          "duration": 219746
+        },
+        {
+          "track": "Вода и вино",
+          "duration": 257333
+        },
+        {
+          "track": "Мир",
+          "duration": 317466
+        }
+      ]
+    },
+    {
+      "album": "Ъ",
+      "release_date": "2010-09-25",
+      "id_spotify": "2HcmAcUGL8UPGglKhpkVMH",
+      "tracks": [
+        {
+          "track": "Ъ",
+          "duration": 230973
+        },
+        {
+          "track": "Крен",
+          "duration": 272600
+        },
+        {
+          "track": "В путь",
+          "duration": 382840
+        },
+        {
+          "track": "Зона",
+          "duration": 247893
+        },
+        {
+          "track": "Страх",
+          "duration": 363186
+        },
+        {
+          "track": "Работа",
+          "duration": 218213
+        },
+        {
+          "track": "Дождь и я",
+          "duration": 250640
+        },
+        {
+          "track": "Звезда",
+          "duration": 281920
+        },
+        {
+          "track": "Главное",
+          "duration": 205093
+        },
+        {
+          "track": "Крик",
+          "duration": 371626
+        },
+        {
+          "track": "Фавор",
+          "duration": 326880
+        }
+      ]
+    },
+    {
+      "album": "Пульс хранителя дверей лабиринта",
+      "release_date": "2008-02-18",
+      "id_spotify": "34ilIMA19WbUs1SvrMBieN",
+      "tracks": [
+        {
+          "track": "Солнце на блюдце",
+          "duration": 338040
+        },
+        {
+          "track": "А тут",
+          "duration": 226680
+        },
+        {
+          "track": "Власть",
+          "duration": 242053
+        },
+        {
+          "track": "Пересмотри",
+          "duration": 208666
+        },
+        {
+          "track": "Вот так",
+          "duration": 268026
+        },
+        {
+          "track": "Апрель",
+          "duration": 271146
+        },
+        {
+          "track": "Горько",
+          "duration": 305653
+        },
+        {
+          "track": "Рикошет",
+          "duration": 216546
+        },
+        {
+          "track": "Что потом",
+          "duration": 307520
+        },
+        {
+          "track": "Пересуды",
+          "duration": 306120
+        },
+        {
+          "track": "Все что я хочу",
+          "duration": 237613
+        },
+        {
+          "track": "Стать песней",
+          "duration": 203720
+        }
+      ]
+    },
+    {
+      "album": "Стать Севера",
+      "release_date": "2007-03-31",
+      "id_spotify": "26EkDKr22wCkwOpemKFgqB",
+      "tracks": [
+        {
+          "track": "Дым",
+          "duration": 286906
+        },
+        {
+          "track": "Иго любви",
+          "duration": 314920
+        },
+        {
+          "track": "На пороге неба",
+          "duration": 444773
+        },
+        {
+          "track": "Стать Севера",
+          "duration": 265106
+        },
+        {
+          "track": "Rock-N-Roll",
+          "duration": 306413
+        },
+        {
+          "track": "Печаль",
+          "duration": 262333
+        },
+        {
+          "track": "Ветер",
+          "duration": 208333
+        },
+        {
+          "track": "Всё в порядке (Старые раны)",
+          "duration": 294600
+        },
+        {
+          "track": "Падал снег",
+          "duration": 313773
+        },
+        {
+          "track": "Жизнь струны",
+          "duration": 230946
+        },
+        {
+          "track": "Северная быль",
+          "duration": 308080
+        }
+      ]
+    },
+    {
+      "album": "Изгой",
+      "release_date": "2005-10-01",
+      "id_spotify": "5QGTkCT3sguGLtBWRrofgB",
+      "tracks": [
+        {
+          "track": "Моя война",
+          "duration": 265133
+        },
+        {
+          "track": "Изгой",
+          "duration": 255680
+        },
+        {
+          "track": "Звезда по имени Рок",
+          "duration": 253733
+        },
+        {
+          "track": "Чёрный",
+          "duration": 249920
+        },
+        {
+          "track": "Солнце - Иерусалим",
+          "duration": 571840
+        },
+        {
+          "track": "Слово",
+          "duration": 265893
+        },
+        {
+          "track": "Бойся, проси и верь!",
+          "duration": 200066
+        },
+        {
+          "track": "Звери",
+          "duration": 259265
+        },
+        {
+          "track": "Rock-n-roll крест",
+          "duration": 286773
+        },
+        {
+          "track": "Крещение",
+          "duration": 334800
+        }
+      ]
+    },
+    {
+      "album": "Мы вместе 20 лет, Ч. 1 (Live)",
+      "release_date": "2005-04-15",
+      "id_spotify": "2isRcJ2ifwaUuS1rhhTvSB",
+      "tracks": [
+        {
+          "track": "Intro - Live",
+          "duration": 227906
+        },
+        {
+          "track": "Родина - Live",
+          "duration": 207013
+        },
+        {
+          "track": "Земля - Live",
+          "duration": 262105
+        },
+        {
+          "track": "Повелитель блох - Live",
+          "duration": 308653
+        },
+        {
+          "track": "Грязь - Live",
+          "duration": 244480
+        },
+        {
+          "track": "По-барабану - Live",
+          "duration": 169066
+        },
+        {
+          "track": "Без креста - Live",
+          "duration": 331973
+        },
+        {
+          "track": "Смутные дни - Live",
+          "duration": 223186
+        },
+        {
+          "track": "Ямщик (Я дышал синевой) - Live",
+          "duration": 405813
+        },
+        {
+          "track": "Ветер водит хоровод - Live",
+          "duration": 497533
+        },
+        {
+          "track": "Емеля - Live",
+          "duration": 48720
+        },
+        {
+          "track": "Инок, воин и шут - Live",
+          "duration": 333253
+        },
+        {
+          "track": "Небо славян - Live",
+          "duration": 287146
+        },
+        {
+          "track": "Непокорные - Live",
+          "duration": 242773
+        },
+        {
+          "track": "Моё поколение - Live",
+          "duration": 266533
+        },
+        {
+          "track": "Всадники - Live",
+          "duration": 407053
+        }
+      ]
+    }
+  ]
+}

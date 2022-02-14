@@ -1,0 +1,699 @@
+{
+  "artists": "БИ-2",
+  "albums": [
+    {
+      "album": "Я никому не верю",
+      "release_date": "2022-02-03",
+      "id_spotify": "7zXE62LZOH3OdE4hzghw52",
+      "tracks": [
+        {
+          "track": "Я никому не верю",
+          "duration": 368847
+        },
+        {
+          "track": "Я никому не верю",
+          "duration": 353339
+        },
+        {
+          "track": "Я никому не верю",
+          "duration": 317780
+        },
+        {
+          "track": "Broken",
+          "duration": 363343
+        },
+        {
+          "track": "Я никому не верю",
+          "duration": 374268
+        },
+        {
+          "track": "Я никому не верю",
+          "duration": 275885
+        },
+        {
+          "track": "The Roots",
+          "duration": 361614
+        },
+        {
+          "track": "Я никому не верю",
+          "duration": 297014
+        },
+        {
+          "track": "Я никому не верю - Instrumental Version",
+          "duration": 380990
+        }
+      ]
+    },
+    {
+      "album": "Сверим сердца (official bootleg) [Live]",
+      "release_date": "2021-09-02",
+      "id_spotify": "3Suf2xe1MqZD8o62pDfVBf",
+      "tracks": [
+        {
+          "track": "Депрессия - Live",
+          "duration": 252181
+        },
+        {
+          "track": "Лайки - Live",
+          "duration": 203637
+        },
+        {
+          "track": "Виски - Live",
+          "duration": 219754
+        },
+        {
+          "track": "Революция - Live",
+          "duration": 242624
+        },
+        {
+          "track": "Черное солнце - Live",
+          "duration": 284352
+        },
+        {
+          "track": "Молитва - Live",
+          "duration": 418560
+        },
+        {
+          "track": "Ангелы - Live",
+          "duration": 331264
+        },
+        {
+          "track": "Ля-ля тополя - Live",
+          "duration": 317632
+        },
+        {
+          "track": "Пекло - Live",
+          "duration": 286528
+        },
+        {
+          "track": "Нам не нужен герой - Live",
+          "duration": 281882
+        },
+        {
+          "track": "Компромисс - Live",
+          "duration": 267306
+        },
+        {
+          "track": "Философский камень - Live",
+          "duration": 292400
+        },
+        {
+          "track": "Варвара - Live",
+          "duration": 267568
+        },
+        {
+          "track": "Полковнику никто не пишет - Live",
+          "duration": 317818
+        },
+        {
+          "track": "Серебро - Live",
+          "duration": 435520
+        },
+        {
+          "track": "Мой рок-н-ролл - Live",
+          "duration": 386965
+        }
+      ]
+    },
+    {
+      "album": "Нечётный воин 4. Часть 1",
+      "release_date": "2020-10-23",
+      "id_spotify": "0MtXsAPummMEaN0QJkyt1n",
+      "tracks": [
+        {
+          "track": "Паганини в метро",
+          "duration": 385033
+        },
+        {
+          "track": "Медленный как снег",
+          "duration": 232308
+        },
+        {
+          "track": "Мы были там",
+          "duration": 257277
+        },
+        {
+          "track": "Странный танец",
+          "duration": 339696
+        },
+        {
+          "track": "Маятник",
+          "duration": 307783
+        },
+        {
+          "track": "Закрывая глаза",
+          "duration": 364204
+        },
+        {
+          "track": "Крепость",
+          "duration": 292107
+        },
+        {
+          "track": "Того что нет",
+          "duration": 285584
+        },
+        {
+          "track": "Так не бывает",
+          "duration": 243571
+        },
+        {
+          "track": "Санскрит для глаз",
+          "duration": 260783
+        },
+        {
+          "track": "Не время",
+          "duration": 262478
+        },
+        {
+          "track": "Двенадцать",
+          "duration": 246503
+        }
+      ]
+    },
+    {
+      "album": "Горизонт событий с оркестром (Live)",
+      "release_date": "2020-01-24",
+      "id_spotify": "7kjgwYhVcEZnScBlnFzcu7",
+      "tracks": [
+        {
+          "track": "Лётчик - Live",
+          "duration": 349541
+        },
+        {
+          "track": "Чёрное солнце - Live",
+          "duration": 297050
+        },
+        {
+          "track": "Детство - Live",
+          "duration": 217469
+        },
+        {
+          "track": "Виски - Live",
+          "duration": 219520
+        },
+        {
+          "track": "Лайки - Live",
+          "duration": 231400
+        },
+        {
+          "track": "Скользкие улицы - Live",
+          "duration": 373520
+        },
+        {
+          "track": "Философский камень - Live",
+          "duration": 278360
+        },
+        {
+          "track": "Сердце - Live",
+          "duration": 319400
+        },
+        {
+          "track": "Компромисс - Live",
+          "duration": 276840
+        },
+        {
+          "track": "Варвара - Live",
+          "duration": 277360
+        },
+        {
+          "track": "Небо без края - Live",
+          "duration": 336157
+        },
+        {
+          "track": "Люди на эскалаторах - Live",
+          "duration": 246997
+        },
+        {
+          "track": "Мой рок-н-ролл - Live",
+          "duration": 364245
+        },
+        {
+          "track": "Ля-ля тополя - Live",
+          "duration": 317720
+        },
+        {
+          "track": "Последний герой - Live",
+          "duration": 262160
+        },
+        {
+          "track": "Дурочка - Live",
+          "duration": 255457
+        },
+        {
+          "track": "Сокол - Live",
+          "duration": 406859
+        },
+        {
+          "track": "Реки любви - Live",
+          "duration": 233779
+        },
+        {
+          "track": "Птица на подоконнике - Live",
+          "duration": 296943
+        },
+        {
+          "track": "Шамбала - Live",
+          "duration": 234680
+        }
+      ]
+    },
+    {
+      "album": "Би-2 & Prague Metropolitan Symphonic Orchestra Vol. 3",
+      "release_date": "2019-04-12",
+      "id_spotify": "0hpugaHHc4lgetcxpi6yOU",
+      "tracks": [
+        {
+          "track": "Лётчик",
+          "duration": 325493
+        },
+        {
+          "track": "Детство",
+          "duration": 193640
+        },
+        {
+          "track": "Чёрное солнце",
+          "duration": 293013
+        },
+        {
+          "track": "Ля-ля тополя",
+          "duration": 313520
+        },
+        {
+          "track": "Философский камень",
+          "duration": 280120
+        },
+        {
+          "track": "Виски",
+          "duration": 221253
+        },
+        {
+          "track": "Лайки",
+          "duration": 220626
+        },
+        {
+          "track": "Сон про снег",
+          "duration": 252720
+        },
+        {
+          "track": "Лунапарк",
+          "duration": 266840
+        },
+        {
+          "track": "Деревянные солдаты",
+          "duration": 255933
+        },
+        {
+          "track": "Птица на подоконнике",
+          "duration": 299520
+        },
+        {
+          "track": "Родина",
+          "duration": 293026
+        },
+        {
+          "track": "Виски (version 2)",
+          "duration": 220186
+        },
+        {
+          "track": "Лётчик - Instrumental version",
+          "duration": 325013
+        },
+        {
+          "track": "Детство - Instrumental version",
+          "duration": 194120
+        },
+        {
+          "track": "Чёрное солнце - Instrumental version",
+          "duration": 294146
+        },
+        {
+          "track": "Философский камень - Instrumental version",
+          "duration": 280800
+        },
+        {
+          "track": "Ля-ля тополя - Instrumental version",
+          "duration": 312666
+        },
+        {
+          "track": "Родина - Instrumental version",
+          "duration": 292960
+        }
+      ]
+    },
+    {
+      "album": "Нечётный воин 4. Часть 2 (Retro Edition)",
+      "release_date": "2019-03-01",
+      "id_spotify": "1qh2a2j49ruq26LyIAJP4z",
+      "tracks": [
+        {
+          "track": "Сон про снег",
+          "duration": 219813
+        },
+        {
+          "track": "Песня для героя (памяти Пипа)",
+          "duration": 271773
+        },
+        {
+          "track": "Унисон",
+          "duration": 264973
+        },
+        {
+          "track": "Для тех, кто в танке",
+          "duration": 357053
+        },
+        {
+          "track": "Ни о чём",
+          "duration": 300480
+        },
+        {
+          "track": "Стая птиц",
+          "duration": 384360
+        },
+        {
+          "track": "Смотри, что вышло",
+          "duration": 313920
+        },
+        {
+          "track": "Дыши",
+          "duration": 302560
+        },
+        {
+          "track": "Белые хлопья",
+          "duration": 239053
+        },
+        {
+          "track": "Перед рассветом",
+          "duration": 259013
+        },
+        {
+          "track": "Лети",
+          "duration": 325306
+        },
+        {
+          "track": "Душа в темноте",
+          "duration": 258786
+        }
+      ]
+    },
+    {
+      "album": "Горизонт событий @ ВТБ Арена (Live)",
+      "release_date": "2018-09-28",
+      "id_spotify": "7IasuOrV9gi1N02KtYDjq1",
+      "tracks": [
+        {
+          "track": "Лётчик - Live",
+          "duration": 336634
+        },
+        {
+          "track": "Чёрное солнце - Live",
+          "duration": 289053
+        },
+        {
+          "track": "Тема века - Live",
+          "duration": 226697
+        },
+        {
+          "track": "Детство - Live",
+          "duration": 197096
+        },
+        {
+          "track": "Молитва - Live",
+          "duration": 402490
+        },
+        {
+          "track": "Вечная призрачная встречная - Live",
+          "duration": 318626
+        },
+        {
+          "track": "Философский камень - Live",
+          "duration": 286776
+        },
+        {
+          "track": "Лайки - Live",
+          "duration": 214752
+        },
+        {
+          "track": "Виски - Live",
+          "duration": 221295
+        },
+        {
+          "track": "Мой рок-н-ролл - Live",
+          "duration": 284260
+        },
+        {
+          "track": "Алиса - Live",
+          "duration": 256517
+        },
+        {
+          "track": "Пора возвращаться домой - Live",
+          "duration": 293057
+        },
+        {
+          "track": "Компромисс - Live",
+          "duration": 263536
+        },
+        {
+          "track": "Скользкие улицы - Live",
+          "duration": 413504
+        },
+        {
+          "track": "Варвара - Live",
+          "duration": 254613
+        },
+        {
+          "track": "Моя любовь - Live",
+          "duration": 341240
+        },
+        {
+          "track": "Пофигу - Live",
+          "duration": 221909
+        },
+        {
+          "track": "Родина - Live",
+          "duration": 335760
+        },
+        {
+          "track": "Drum solo - Live",
+          "duration": 370091
+        },
+        {
+          "track": "Сердце - Live",
+          "duration": 338389
+        }
+      ]
+    },
+    {
+      "album": "Концерт в Кремле (Live)",
+      "release_date": "2018-04-06",
+      "id_spotify": "2qI2wMCOP69bWLUqGnAzhR",
+      "tracks": [
+        {
+          "track": "Intro + Шар земной - Live",
+          "duration": 403850
+        },
+        {
+          "track": "Последний герой - Live",
+          "duration": 249119
+        },
+        {
+          "track": "Забрали в армию - Live",
+          "duration": 329794
+        },
+        {
+          "track": "Реки любви - Live",
+          "duration": 233215
+        },
+        {
+          "track": "Достучаться до небес - Live",
+          "duration": 329833
+        },
+        {
+          "track": "Моя любовь - Live",
+          "duration": 324262
+        },
+        {
+          "track": "Безвоздушная тревога - Live",
+          "duration": 314648
+        },
+        {
+          "track": "Лайки - Live",
+          "duration": 207631
+        },
+        {
+          "track": "Дурочка - Live",
+          "duration": 244232
+        },
+        {
+          "track": "Bowie - Live",
+          "duration": 341691
+        },
+        {
+          "track": "Тише и тише - Live",
+          "duration": 267180
+        },
+        {
+          "track": "Скользкие улицы - Live",
+          "duration": 360129
+        },
+        {
+          "track": "Ты не один - Live",
+          "duration": 332772
+        },
+        {
+          "track": "Птица на подоконнике - Live",
+          "duration": 300303
+        },
+        {
+          "track": "Прощай Берлин - Live",
+          "duration": 285301
+        },
+        {
+          "track": "Хипстер - Live",
+          "duration": 256386
+        },
+        {
+          "track": "Компромисс - Live",
+          "duration": 273342
+        },
+        {
+          "track": "Мой рок-н-ролл - Live",
+          "duration": 375055
+        },
+        {
+          "track": "Кого ты ждешь - Live",
+          "duration": 315573
+        },
+        {
+          "track": "Варвара - Live",
+          "duration": 247663
+        }
+      ]
+    },
+    {
+      "album": "Горизонт событий",
+      "release_date": "2017-09-29",
+      "id_spotify": "5g0YbAjF4be4YrQxz8RcoO",
+      "tracks": [
+        {
+          "track": "Лётчик",
+          "duration": 351784
+        },
+        {
+          "track": "Чёрное солнце",
+          "duration": 289715
+        },
+        {
+          "track": "Тема века",
+          "duration": 218012
+        },
+        {
+          "track": "Детство",
+          "duration": 193970
+        },
+        {
+          "track": "Философский камень",
+          "duration": 286441
+        },
+        {
+          "track": "Лайки",
+          "duration": 211649
+        },
+        {
+          "track": "Виски",
+          "duration": 197880
+        },
+        {
+          "track": "Пора возвращаться домой",
+          "duration": 288926
+        },
+        {
+          "track": "Пофигу",
+          "duration": 201595
+        },
+        {
+          "track": "Алиса (памяти А. Ротаня)",
+          "duration": 220994
+        },
+        {
+          "track": "Родина",
+          "duration": 326472
+        },
+        {
+          "track": "ХалиГалиКришна - Bonus Track",
+          "duration": 246758
+        },
+        {
+          "track": "Хороводная - Bonus Track",
+          "duration": 244482
+        },
+        {
+          "track": "Иначе - Bonus Track",
+          "duration": 247849
+        },
+        {
+          "track": "Дебют - Bonus Track",
+          "duration": 368432
+        },
+        {
+          "track": "Птица на подоконнике - Bonus Track",
+          "duration": 326844
+        }
+      ]
+    },
+    {
+      "album": "Би-2 & Prague Metropolitan Symphonic Orchestra Vol. 2",
+      "release_date": "2017-03-17",
+      "id_spotify": "3vdc8qpB1RMB5eVys8W8jE",
+      "tracks": [
+        {
+          "track": "Молитва",
+          "duration": 332781
+        },
+        {
+          "track": "Хипстер",
+          "duration": 248476
+        },
+        {
+          "track": "Забрали в армию",
+          "duration": 296658
+        },
+        {
+          "track": "Касаясь земли",
+          "duration": 278773
+        },
+        {
+          "track": "Блюз 16",
+          "duration": 256464
+        },
+        {
+          "track": "Компромисс",
+          "duration": 262524
+        },
+        {
+          "track": "Тише и тише",
+          "duration": 259883
+        },
+        {
+          "track": "Три сантиметра над землей",
+          "duration": 320992
+        },
+        {
+          "track": "Сердце",
+          "duration": 305295
+        },
+        {
+          "track": "Бездорожье",
+          "duration": 248403
+        },
+        {
+          "track": "Она",
+          "duration": 347324
+        },
+        {
+          "track": "Кого ты ждешь",
+          "duration": 304367
+        }
+      ]
+    }
+  ]
+}

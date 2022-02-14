@@ -1,0 +1,643 @@
+{
+  "artists": "Агата Кристи",
+  "albums": [
+    {
+      "album": "Позорная звезда",
+      "release_date": "2016-07-12",
+      "id_spotify": "7ttFwyDEY7FAnfvxQzbjV3",
+      "tracks": [
+        {
+          "track": "Айлавью",
+          "duration": 256399
+        },
+        {
+          "track": "Нисхождение",
+          "duration": 278000
+        },
+        {
+          "track": "Сирота",
+          "duration": 259333
+        },
+        {
+          "track": "Новый год",
+          "duration": 191333
+        },
+        {
+          "track": "Истерика",
+          "duration": 179333
+        },
+        {
+          "track": "Вольно!",
+          "duration": 276666
+        },
+        {
+          "track": "Как на войне",
+          "duration": 244933
+        },
+        {
+          "track": "Молитва",
+          "duration": 229000
+        },
+        {
+          "track": "Джиги дзаги",
+          "duration": 219800
+        },
+        {
+          "track": "Позорная звезда",
+          "duration": 216666
+        },
+        {
+          "track": "Я буду там",
+          "duration": 243813
+        }
+      ]
+    },
+    {
+      "album": "Коварство и любовь",
+      "release_date": "2016-07-12",
+      "id_spotify": "6PeLxB5eccftVGP3hDqTQz",
+      "tracks": [
+        {
+          "track": "Инспектор по...",
+          "duration": 150533
+        },
+        {
+          "track": "Viva Kalman",
+          "duration": 160840
+        },
+        {
+          "track": "Африканка",
+          "duration": 181666
+        },
+        {
+          "track": "Сытая свинья",
+          "duration": 264093
+        },
+        {
+          "track": "Танго с дельтапланом",
+          "duration": 150240
+        },
+        {
+          "track": "Праздник семьи",
+          "duration": 177893
+        },
+        {
+          "track": "Собачье сердце",
+          "duration": 108933
+        },
+        {
+          "track": "Аллергия",
+          "duration": 153266
+        },
+        {
+          "track": "Канкан",
+          "duration": 223906
+        },
+        {
+          "track": "Холодная любовь",
+          "duration": 163493
+        },
+        {
+          "track": "Пантера",
+          "duration": 225933
+        },
+        {
+          "track": "Кондуктор",
+          "duration": 121933
+        },
+        {
+          "track": "Viva",
+          "duration": 29906
+        },
+        {
+          "track": "Бесса мэ...",
+          "duration": 248680
+        }
+      ]
+    },
+    {
+      "album": "Ностальгия",
+      "release_date": "2015-07-06",
+      "id_spotify": "2orZvcMdBAZrh9iO1SX1FD",
+      "tracks": [
+        {
+          "track": "Эпилог",
+          "duration": 325293
+        },
+        {
+          "track": "Viva Kalman",
+          "duration": 160840
+        },
+        {
+          "track": "Щёкотно",
+          "duration": 211533
+        },
+        {
+          "track": "Нисхождение",
+          "duration": 278000
+        },
+        {
+          "track": "Новый Год",
+          "duration": 191333
+        },
+        {
+          "track": "Истерика",
+          "duration": 179333
+        },
+        {
+          "track": "Вольно!",
+          "duration": 276666
+        },
+        {
+          "track": "Позорная звезда",
+          "duration": 216666
+        },
+        {
+          "track": "Халигаликришна",
+          "duration": 341506
+        },
+        {
+          "track": "Тоска без конца",
+          "duration": 263800
+        },
+        {
+          "track": "Абордаж",
+          "duration": 256760
+        },
+        {
+          "track": "Вечная любовь",
+          "duration": 217533
+        },
+        {
+          "track": "Ты и я",
+          "duration": 195466
+        },
+        {
+          "track": "Гетеросексуалист",
+          "duration": 237360
+        },
+        {
+          "track": "Дворник",
+          "duration": 266613
+        },
+        {
+          "track": "Два корабля",
+          "duration": 270080
+        },
+        {
+          "track": "Ураган",
+          "duration": 236240
+        },
+        {
+          "track": "Моряк",
+          "duration": 215440
+        },
+        {
+          "track": "Поход",
+          "duration": 230733
+        },
+        {
+          "track": "Корвет уходит в небеса",
+          "duration": 260413
+        }
+      ]
+    },
+    {
+      "album": "Эпилог",
+      "release_date": "2010-01-01",
+      "id_spotify": "2kajF3dzcvCCIH7Mb0Dpef",
+      "tracks": [
+        {
+          "track": "Эпилог (Предисловие)",
+          "duration": 325293
+        },
+        {
+          "track": "Письмо",
+          "duration": 317560
+        },
+        {
+          "track": "Небытие",
+          "duration": 222240
+        },
+        {
+          "track": "Подвиг",
+          "duration": 181813
+        },
+        {
+          "track": "Пароль",
+          "duration": 241213
+        },
+        {
+          "track": "В такси",
+          "duration": 172186
+        },
+        {
+          "track": "Алхимик",
+          "duration": 190413
+        },
+        {
+          "track": "Билеты проданы",
+          "duration": 224493
+        },
+        {
+          "track": "Разные люди",
+          "duration": 185093
+        },
+        {
+          "track": "Последнее желание",
+          "duration": 179440
+        },
+        {
+          "track": "Сердцебиение",
+          "duration": 258253
+        },
+        {
+          "track": "Дорога",
+          "duration": 266000
+        }
+      ]
+    },
+    {
+      "album": "Скаzки",
+      "release_date": "2008-01-01",
+      "id_spotify": "1vOE9K5RGa0ao7ObeahUf1",
+      "tracks": [
+        {
+          "track": "Вервольф",
+          "duration": 221226
+        },
+        {
+          "track": "Viva kalman",
+          "duration": 160173
+        },
+        {
+          "track": "Щёкотно",
+          "duration": 206613
+        },
+        {
+          "track": "Трансильвания",
+          "duration": 243026
+        },
+        {
+          "track": "Насилие",
+          "duration": 236600
+        },
+        {
+          "track": "Ползет (День-Рождения-Микс)",
+          "duration": 135986
+        },
+        {
+          "track": "Серый траур",
+          "duration": 192106
+        },
+        {
+          "track": "Ты и я",
+          "duration": 195040
+        },
+        {
+          "track": "Поход",
+          "duration": 231706
+        },
+        {
+          "track": "Странное рождество",
+          "duration": 266146
+        },
+        {
+          "track": "Розовый бинт",
+          "duration": 230293
+        },
+        {
+          "track": "Ураган",
+          "duration": 238440
+        },
+        {
+          "track": "Пират",
+          "duration": 199293
+        },
+        {
+          "track": "Секрет (Дракула-Микс)",
+          "duration": 166026
+        },
+        {
+          "track": "Навеселе",
+          "duration": 169906
+        },
+        {
+          "track": "Ковер-вертолет",
+          "duration": 198253
+        },
+        {
+          "track": "Они летят",
+          "duration": 249106
+        },
+        {
+          "track": "Корвет уходит в небеса",
+          "duration": 257813
+        },
+        {
+          "track": "С щитом иль на щите",
+          "duration": 108133
+        },
+        {
+          "track": "Звездочет",
+          "duration": 239133
+        }
+      ]
+    },
+    {
+      "album": "Триллер",
+      "release_date": "2004-01-01",
+      "id_spotify": "0i8QFj8mvA3I92fSAulDcL",
+      "tracks": [
+        {
+          "track": "Кто украл мою звезду",
+          "duration": 294666
+        },
+        {
+          "track": "Немного земли",
+          "duration": 210786
+        },
+        {
+          "track": "В интересах революции",
+          "duration": 159626
+        },
+        {
+          "track": "Триллер",
+          "duration": 217773
+        },
+        {
+          "track": "Любовь идёт на дело",
+          "duration": 222186
+        },
+        {
+          "track": "Kill Love",
+          "duration": 188653
+        },
+        {
+          "track": "Днём и ночью",
+          "duration": 211880
+        },
+        {
+          "track": "Садо мазо",
+          "duration": 153026
+        },
+        {
+          "track": "Порвали мечту",
+          "duration": 197813
+        },
+        {
+          "track": "Пока пока",
+          "duration": 195266
+        },
+        {
+          "track": "Звездочёт",
+          "duration": 238746
+        },
+        {
+          "track": "Весёлый мир",
+          "duration": 159893
+        },
+        {
+          "track": "Звездочёт (Depressive Robot Version 2006)",
+          "duration": 287253
+        }
+      ]
+    },
+    {
+      "album": "Майн кайф?",
+      "release_date": "2000-01-01",
+      "id_spotify": "6Liqnu4w1ddlLdrIOQ3zvV",
+      "tracks": [
+        {
+          "track": "Пролог. Убитая любовь",
+          "duration": 180000
+        },
+        {
+          "track": "Пират",
+          "duration": 198386
+        },
+        {
+          "track": "Секрет",
+          "duration": 167586
+        },
+        {
+          "track": "Красная шапочка",
+          "duration": 230106
+        },
+        {
+          "track": "Альрауне",
+          "duration": 183320
+        },
+        {
+          "track": "На дне",
+          "duration": 212706
+        },
+        {
+          "track": "Выпить море",
+          "duration": 169106
+        },
+        {
+          "track": "Ein Zwei Drei Waltz",
+          "duration": 244773
+        },
+        {
+          "track": "Странное рождество",
+          "duration": 267466
+        },
+        {
+          "track": "Четыре слова",
+          "duration": 272933
+        },
+        {
+          "track": "Месяц",
+          "duration": 239600
+        },
+        {
+          "track": "Ветер",
+          "duration": 234466
+        },
+        {
+          "track": "Снайпер",
+          "duration": 215253
+        },
+        {
+          "track": "Эпилог. На краю",
+          "duration": 126306
+        },
+        {
+          "track": "Никогда",
+          "duration": 288906
+        },
+        {
+          "track": "Красная шапочка (Gothic House Version 2006)",
+          "duration": 242186
+        }
+      ]
+    },
+    {
+      "album": "10 лет жизни, Часть 2 (Live)",
+      "release_date": "1998-01-01",
+      "id_spotify": "0ukMmi0P16vrZFlgVurzHv",
+      "tracks": [
+        {
+          "track": "Вечная любовь",
+          "duration": 211600
+        },
+        {
+          "track": "Айлавью",
+          "duration": 284466
+        },
+        {
+          "track": "Грязь",
+          "duration": 243400
+        },
+        {
+          "track": "Розовый бинт",
+          "duration": 211533
+        },
+        {
+          "track": "Халигаликришна",
+          "duration": 342386
+        },
+        {
+          "track": "Позорная звезда",
+          "duration": 208320
+        },
+        {
+          "track": "Истерика",
+          "duration": 186493
+        },
+        {
+          "track": "Чёрная луна",
+          "duration": 239386
+        },
+        {
+          "track": "Viva Kalman",
+          "duration": 190360
+        },
+        {
+          "track": "Сказочная тайга",
+          "duration": 210280
+        },
+        {
+          "track": "Опиум для никого",
+          "duration": 237786
+        },
+        {
+          "track": "Как на войне",
+          "duration": 381986
+        },
+        {
+          "track": "Собачье сердце",
+          "duration": 287466
+        }
+      ]
+    },
+    {
+      "album": "10 лет жизни, Часть 1 (Live)",
+      "release_date": "1998-01-01",
+      "id_spotify": "2TmiSWNjmcLgAcKeOHBAXY",
+      "tracks": [
+        {
+          "track": "Два корабля",
+          "duration": 291840
+        },
+        {
+          "track": "Нисхождение",
+          "duration": 283133
+        },
+        {
+          "track": "Тоска без конца",
+          "duration": 266213
+        },
+        {
+          "track": "Поход",
+          "duration": 239053
+        },
+        {
+          "track": "Трансильвания",
+          "duration": 239373
+        },
+        {
+          "track": "Насилие",
+          "duration": 244653
+        },
+        {
+          "track": "Легион",
+          "duration": 287506
+        },
+        {
+          "track": "Гетеросексуалист",
+          "duration": 241266
+        },
+        {
+          "track": "Ураган",
+          "duration": 230960
+        },
+        {
+          "track": "Моряк",
+          "duration": 223306
+        },
+        {
+          "track": "Абордаж",
+          "duration": 258079
+        },
+        {
+          "track": "Вольно!",
+          "duration": 259306
+        },
+        {
+          "track": "Аусвайс на небо",
+          "duration": 199146
+        }
+      ]
+    },
+    {
+      "album": "Два kopablya",
+      "release_date": "1998-01-01",
+      "id_spotify": "5872BCPFuHq06BVweWFM7N",
+      "tracks": [
+        {
+          "track": "Два корабля (Profovater Eclectica Mix)",
+          "duration": 318706
+        },
+        {
+          "track": "Моряк (Cutthroaght Island Eclectica Mix)",
+          "duration": 305466
+        },
+        {
+          "track": "Грязь (I Love Frank Farrian Eclectica Mix)",
+          "duration": 245040
+        },
+        {
+          "track": "Извращение (Sixth of October Eclectica Mix)",
+          "duration": 330826
+        },
+        {
+          "track": "Легион (Knocking Heads Eclectica Mix)",
+          "duration": 364946
+        },
+        {
+          "track": "Корвет (Crazy Tale Eclectica Mix)",
+          "duration": 346733
+        },
+        {
+          "track": "Аусвайс на небо (Eclectica feat. Mechanica Mix)",
+          "duration": 306640
+        },
+        {
+          "track": "Розовый бинт (Half of e Eclectica Mix)",
+          "duration": 317053
+        },
+        {
+          "track": "Ураган (Glebs Personal Eclectica Mix)",
+          "duration": 275320
+        },
+        {
+          "track": "Два корабля (Sick Navigator Eclectica Mix)",
+          "duration": 376120
+        }
+      ]
+    }
+  ]
+}

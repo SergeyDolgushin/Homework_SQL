@@ -1,0 +1,487 @@
+{
+  "artists": "Мумий Тролль",
+  "albums": [
+    {
+      "album": "ПОСЛЕ ЗЛА",
+      "release_date": "2020-12-03",
+      "id_spotify": "1YinNKpo3O45cjlqvHHrNz",
+      "tracks": [
+        {
+          "track": "Солист",
+          "duration": 241640
+        },
+        {
+          "track": "Собаки",
+          "duration": 124146
+        },
+        {
+          "track": "Лира",
+          "duration": 185893
+        },
+        {
+          "track": "Лето без Интернета",
+          "duration": 211760
+        },
+        {
+          "track": "Время Обид",
+          "duration": 193066
+        },
+        {
+          "track": "Экосистема",
+          "duration": 173560
+        },
+        {
+          "track": "Вертолетики",
+          "duration": 230480
+        },
+        {
+          "track": "Тот День Когда",
+          "duration": 207293
+        }
+      ]
+    },
+    {
+      "album": "Призраки Завтра",
+      "release_date": "2020-10-01",
+      "id_spotify": "2PiQ1UiV9TwBCEBpQyGIHQ",
+      "tracks": [
+        {
+          "track": "Всходы",
+          "duration": 209638
+        },
+        {
+          "track": "Не целуясь",
+          "duration": 171208
+        },
+        {
+          "track": "Романс знатоков",
+          "duration": 348093
+        },
+        {
+          "track": "Космические силы",
+          "duration": 204264
+        },
+        {
+          "track": "Призраки завтра (Из “Вампиры средней полосы”)",
+          "duration": 281611
+        },
+        {
+          "track": "Не целуясь",
+          "duration": 251860
+        },
+        {
+          "track": "Кутить (feat. Скриптонит)",
+          "duration": 246429
+        },
+        {
+          "track": "Призраки завтра (DZA Reflip)",
+          "duration": 288387
+        }
+      ]
+    },
+    {
+      "album": "Лето без интернета",
+      "release_date": "2020-06-11",
+      "id_spotify": "6U7G5Tcpv7jCDJGsfFD2aL",
+      "tracks": [
+        {
+          "track": "Лето без интернета",
+          "duration": 216544
+        },
+        {
+          "track": "Off the Grid",
+          "duration": 170039
+        },
+        {
+          "track": "Summer",
+          "duration": 215730
+        },
+        {
+          "track": "Vasara bez internetiem",
+          "duration": 186825
+        },
+        {
+          "track": "Gaikeci bunebashi",
+          "duration": 210332
+        },
+        {
+          "track": "Summer 89",
+          "duration": 190269
+        },
+        {
+          "track": "Лето без интернета - Ivan Starzev Remix",
+          "duration": 279652
+        },
+        {
+          "track": "Лето без интернета - Ivan Scratchin’ БК-0010 Mix",
+          "duration": 214204
+        },
+        {
+          "track": "Лето без интернета - Kotra The Cat Remix",
+          "duration": 278181
+        },
+        {
+          "track": "Лето без интернета - 50Dix Remix",
+          "duration": 217140
+        },
+        {
+          "track": "Лето без интернета - Amor Entrave Remix",
+          "duration": 225015
+        },
+        {
+          "track": "Лето без интернета - Korablove Version",
+          "duration": 232592
+        }
+      ]
+    },
+    {
+      "album": "Всыпал снег не случайно",
+      "release_date": "2018-12-28",
+      "id_spotify": "0YYgpo0sZnuCNEYWHuJzcD",
+      "tracks": [
+        {
+          "track": "С Новым годом, крошка!",
+          "duration": 305293
+        },
+        {
+          "track": "Метель",
+          "duration": 224546
+        },
+        {
+          "track": "Грильяж",
+          "duration": 217803
+        },
+        {
+          "track": "Контрабанды",
+          "duration": 240253
+        },
+        {
+          "track": "Оливье",
+          "duration": 226195
+        },
+        {
+          "track": "Моя певица",
+          "duration": 250026
+        },
+        {
+          "track": "С любимыми не расставайтесь",
+          "duration": 186815
+        },
+        {
+          "track": "Зимняя песня Муми-Троллей",
+          "duration": 198752
+        },
+        {
+          "track": "Северный полюс",
+          "duration": 220306
+        },
+        {
+          "track": "Пломбир",
+          "duration": 149559
+        },
+        {
+          "track": "Пломбир",
+          "duration": 149443
+        },
+        {
+          "track": "С Новым годом, крошка! - Citysh Remix",
+          "duration": 308733
+        },
+        {
+          "track": "С Новым годом, крошка! - DJ Ram Remix",
+          "duration": 290840
+        },
+        {
+          "track": "С Новым годом, крошка! - Иван Scratchin` 2019 Remix",
+          "duration": 214678
+        }
+      ]
+    },
+    {
+      "album": "Вечерний чай (Live)",
+      "release_date": "2018-10-16",
+      "id_spotify": "1BAOH4M83vfMHVlufUV68Q",
+      "tracks": [
+        {
+          "track": "На перекрестках судьбы (Версия 2018) - Live",
+          "duration": 271978
+        },
+        {
+          "track": "Инопланетный гость - Live",
+          "duration": 400138
+        },
+        {
+          "track": "Девочка - Live",
+          "duration": 257421
+        },
+        {
+          "track": "Утекай - Live",
+          "duration": 365653
+        },
+        {
+          "track": "Такие девчонки - Live",
+          "duration": 280464
+        },
+        {
+          "track": "Космический десантник - Live",
+          "duration": 313470
+        },
+        {
+          "track": "Владивосток 2000 - Live",
+          "duration": 182762
+        },
+        {
+          "track": "Карты - Live",
+          "duration": 199221
+        },
+        {
+          "track": "Дельфины - Live",
+          "duration": 337110
+        },
+        {
+          "track": "Жимолость - Live",
+          "duration": 402790
+        }
+      ]
+    },
+    {
+      "album": "Морская.20 (Live)",
+      "release_date": "2018-10-16",
+      "id_spotify": "5xx5wIoC1OCtpkYMJeOFuz",
+      "tracks": [
+        {
+          "track": "Воспитанник упавшей звезды - Live",
+          "duration": 470238
+        },
+        {
+          "track": "Вдруг ушли поезда - Live",
+          "duration": 263992
+        },
+        {
+          "track": "Девочка - Live",
+          "duration": 227078
+        },
+        {
+          "track": "Утекай - Live",
+          "duration": 257122
+        },
+        {
+          "track": "Морская болезнь - Live",
+          "duration": 318710
+        },
+        {
+          "track": "Забавы - Live",
+          "duration": 193443
+        },
+        {
+          "track": "Инопланетный гость - Live",
+          "duration": 311902
+        },
+        {
+          "track": "Скорость - Live",
+          "duration": 294464
+        },
+        {
+          "track": "Кот кота - Live",
+          "duration": 191092
+        },
+        {
+          "track": "Владивосток 2000 - Live",
+          "duration": 171083
+        }
+      ]
+    },
+    {
+      "album": "ВОСТОК X CЕВЕРОЗАПАД",
+      "release_date": "2018-02-18",
+      "id_spotify": "4h54yNcWC5dB4HLnlEvoA6",
+      "tracks": [
+        {
+          "track": "Планы",
+          "duration": 265772
+        },
+        {
+          "track": "Отв. за Романтику",
+          "duration": 236856
+        },
+        {
+          "track": "Милота",
+          "duration": 218563
+        },
+        {
+          "track": "Жимолость",
+          "duration": 432999
+        },
+        {
+          "track": "Не помню зачем",
+          "duration": 240648
+        },
+        {
+          "track": "Всё или ничего",
+          "duration": 248695
+        },
+        {
+          "track": "Летающая тарелка",
+          "duration": 280760
+        },
+        {
+          "track": "Ой",
+          "duration": 251523
+        },
+        {
+          "track": "Приоритеты",
+          "duration": 366970
+        },
+        {
+          "track": "Карты",
+          "duration": 183227
+        }
+      ]
+    },
+    {
+      "album": "#31E",
+      "release_date": "2016-12-20",
+      "id_spotify": "0jsro7yUDaypm3a8nXayLf",
+      "tracks": [
+        {
+          "track": "Грильяж (31 число)",
+          "duration": 217803
+        },
+        {
+          "track": "Пломбир",
+          "duration": 149443
+        },
+        {
+          "track": "Пломбир",
+          "duration": 149559
+        },
+        {
+          "track": "Пломбир - Instrumental",
+          "duration": 150186
+        },
+        {
+          "track": "Пломбир - Piano",
+          "duration": 89907
+        },
+        {
+          "track": "Пломбир - 8bit",
+          "duration": 93112
+        },
+        {
+          "track": "Грильяж (31 число) - Live from Far From Moscow Festival",
+          "duration": 215248
+        },
+        {
+          "track": "С любимыми не расставайтесь",
+          "duration": 186814
+        }
+      ]
+    },
+    {
+      "album": "Пиратские копии (Deluxe Version)",
+      "release_date": "2015-04-15",
+      "id_spotify": "6t1H3fxgvyYzBIfiPXUCev",
+      "tracks": [
+        {
+          "track": "С чистого листа",
+          "duration": 238435
+        },
+        {
+          "track": "Медленные танцы",
+          "duration": 542551
+        },
+        {
+          "track": "Витамины",
+          "duration": 257624
+        },
+        {
+          "track": "Пиратские копии",
+          "duration": 388712
+        },
+        {
+          "track": "Кажется",
+          "duration": 267193
+        },
+        {
+          "track": "Молния",
+          "duration": 272399
+        },
+        {
+          "track": "Золотое сердце",
+          "duration": 214691
+        },
+        {
+          "track": "Последний отпускной",
+          "duration": 212379
+        },
+        {
+          "track": "Куклы",
+          "duration": 178041
+        },
+        {
+          "track": "Мошка",
+          "duration": 229271
+        },
+        {
+          "track": "Где вы, девочки",
+          "duration": 288218
+        },
+        {
+          "track": "Кто будет спасать рок-н-ролл",
+          "duration": 256782
+        },
+        {
+          "track": "Шторм",
+          "duration": 220872
+        },
+        {
+          "track": "Ноябрь",
+          "duration": 360794
+        }
+      ]
+    },
+    {
+      "album": "Malibu Alibi",
+      "release_date": "2015",
+      "id_spotify": "4HB1Uuj6qTFgBl3OCpYyjT",
+      "tracks": [
+        {
+          "track": "Speed",
+          "duration": 255457
+        },
+        {
+          "track": "Vitamins",
+          "duration": 257624
+        },
+        {
+          "track": "Flow Away (Utekay)",
+          "duration": 270262
+        },
+        {
+          "track": "The Girl",
+          "duration": 234376
+        },
+        {
+          "track": "My Luck",
+          "duration": 312107
+        },
+        {
+          "track": "Golden Heart",
+          "duration": 215468
+        },
+        {
+          "track": "Swimming with Sharks",
+          "duration": 217929
+        },
+        {
+          "track": "All of Mine (Colima)",
+          "duration": 442203
+        },
+        {
+          "track": "November",
+          "duration": 356699
+        }
+      ]
+    }
+  ]
+}

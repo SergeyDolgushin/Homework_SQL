@@ -1,0 +1,579 @@
+{
+  "artists": "Chris Rea",
+  "albums": [
+    {
+      "album": "One Fine Day",
+      "release_date": "2019-10-04",
+      "id_spotify": "7CEQPRiw3A2oRK22Tkn8II",
+      "tracks": [
+        {
+          "track": "Do You Still Dream?",
+          "duration": 250266
+        },
+        {
+          "track": "Loving You",
+          "duration": 233826
+        },
+        {
+          "track": "One Fine Day",
+          "duration": 245520
+        },
+        {
+          "track": "One Sweet and Tender Touch",
+          "duration": 282573
+        },
+        {
+          "track": "If I Ever Break Free",
+          "duration": 176826
+        },
+        {
+          "track": "Sierra Sierra",
+          "duration": 253413
+        },
+        {
+          "track": "Members Only",
+          "duration": 202733
+        },
+        {
+          "track": "Let Me Be the One",
+          "duration": 203120
+        },
+        {
+          "track": "One Night with You",
+          "duration": 271320
+        }
+      ]
+    },
+    {
+      "album": "Road Songs for Lovers",
+      "release_date": "2017-09-29",
+      "id_spotify": "0lQfhDHlKayKw6Jg9RKOY1",
+      "tracks": [
+        {
+          "track": "Happy on the Road",
+          "duration": 226826
+        },
+        {
+          "track": "Nothing Left Behind",
+          "duration": 329053
+        },
+        {
+          "track": "Road Songs for Lovers",
+          "duration": 253186
+        },
+        {
+          "track": "Money",
+          "duration": 357080
+        },
+        {
+          "track": "Two Lost Souls",
+          "duration": 286680
+        },
+        {
+          "track": "Rock My Soul",
+          "duration": 247720
+        },
+        {
+          "track": "Moving On",
+          "duration": 310320
+        },
+        {
+          "track": "The Road Ahead",
+          "duration": 256399
+        },
+        {
+          "track": "Last Train",
+          "duration": 393640
+        },
+        {
+          "track": "Angel of Love",
+          "duration": 269866
+        },
+        {
+          "track": "Breaking Point",
+          "duration": 353986
+        },
+        {
+          "track": "Beautiful",
+          "duration": 220706
+        }
+      ]
+    },
+    {
+      "album": "Santo Spirito Blues",
+      "release_date": "2011-09-02",
+      "id_spotify": "5pcdr3qc9MZkCeek5oU7Wy",
+      "tracks": [
+        {
+          "track": "Dancing My Blues Away",
+          "duration": 255200
+        },
+        {
+          "track": "Rock and Roll Tonight",
+          "duration": 221760
+        },
+        {
+          "track": "Never Tie Me Down",
+          "duration": 274640
+        },
+        {
+          "track": "The Chance of Love",
+          "duration": 255133
+        },
+        {
+          "track": "The Last Open Road",
+          "duration": 260279
+        },
+        {
+          "track": "Electric Guitar",
+          "duration": 261320
+        },
+        {
+          "track": "Money",
+          "duration": 407333
+        },
+        {
+          "track": "The Way She Moves",
+          "duration": 355280
+        },
+        {
+          "track": "Dance with Me All Night Long",
+          "duration": 362973
+        },
+        {
+          "track": "Think Like a Woman",
+          "duration": 258893
+        },
+        {
+          "track": "You Got Lucky",
+          "duration": 234586
+        },
+        {
+          "track": "Lose My Heart in You",
+          "duration": 294746
+        },
+        {
+          "track": "I Will Go On",
+          "duration": 180213
+        }
+      ]
+    },
+    {
+      "album": "The Return of the Fabulous Hofner Bluenotes",
+      "release_date": "2008",
+      "id_spotify": "2HDuLlYq9jHleAMXa7CJyN",
+      "tracks": [
+        {
+          "track": "Twister Inside",
+          "duration": 254013
+        },
+        {
+          "track": "Legacy Blues",
+          "duration": 251226
+        },
+        {
+          "track": "When The Truth Comes Out",
+          "duration": 205066
+        },
+        {
+          "track": "Blues For Janice",
+          "duration": 228760
+        },
+        {
+          "track": "Because It`s You",
+          "duration": 214906
+        },
+        {
+          "track": "Don`t Give Your Ace Away",
+          "duration": 209600
+        },
+        {
+          "track": "The Shadow Of A Fool",
+          "duration": 238053
+        },
+        {
+          "track": "Russian Roulette (Instrumental)",
+          "duration": 193986
+        },
+        {
+          "track": "I Will Be With You",
+          "duration": 242773
+        },
+        {
+          "track": "I Can`t Wait For Love",
+          "duration": 232880
+        },
+        {
+          "track": "Let`s Getaway",
+          "duration": 233293
+        },
+        {
+          "track": "Yes I Do",
+          "duration": 254093
+        },
+        {
+          "track": "Meet Me On The Mountain",
+          "duration": 268226
+        },
+        {
+          "track": "BB Was A Comanche (Instrumental)",
+          "duration": 193120
+        }
+      ]
+    },
+    {
+      "album": "The Road To Hell And Back (Live / Deluxe)",
+      "release_date": "2006-10-16",
+      "id_spotify": "1DkrDgoLrZna8TGmAXM0nm",
+      "tracks": [
+        {
+          "track": "Jazzee Blue - Live",
+          "duration": 224773
+        },
+        {
+          "track": "That`s The Way It Goes - Live",
+          "duration": 303040
+        },
+        {
+          "track": "Where The Blues Come From - Live",
+          "duration": 338400
+        },
+        {
+          "track": "Josephine - Live",
+          "duration": 308493
+        },
+        {
+          "track": "Work Gang - Live",
+          "duration": 278026
+        },
+        {
+          "track": "Head Out On The Highway - Live",
+          "duration": 283533
+        },
+        {
+          "track": "Easy Rider - Live",
+          "duration": 304920
+        },
+        {
+          "track": "`Til The Morning - Live",
+          "duration": 467413
+        },
+        {
+          "track": "Stony Road - Live",
+          "duration": 362760
+        },
+        {
+          "track": "KKK Blues - Live",
+          "duration": 297333
+        },
+        {
+          "track": "Julia - Live",
+          "duration": 235933
+        },
+        {
+          "track": "Stainsby Girls - Live",
+          "duration": 502426
+        },
+        {
+          "track": "Somewhere Between Highway 61 & 49 - Live",
+          "duration": 497760
+        },
+        {
+          "track": "I Can Hear Your Heartbeat - Live",
+          "duration": 647413
+        },
+        {
+          "track": "The Road To Hell - Live",
+          "duration": 608840
+        },
+        {
+          "track": "On The Beach - Live",
+          "duration": 342960
+        },
+        {
+          "track": "Let`s Dance - Live",
+          "duration": 402986
+        },
+        {
+          "track": "Fool (If You Think It`s Over) - Live",
+          "duration": 236026
+        }
+      ]
+    },
+    {
+      "album": "The Road To Hell And Back",
+      "release_date": "2006-01-01",
+      "id_spotify": "3pwPN4L8abvwlPamjXjBai",
+      "tracks": [
+        {
+          "track": "Jazzee Blue - Live",
+          "duration": 224720
+        },
+        {
+          "track": "Josephine - Live",
+          "duration": 306520
+        },
+        {
+          "track": "Stony Road - Live",
+          "duration": 370346
+        },
+        {
+          "track": "Julia - Live",
+          "duration": 236173
+        },
+        {
+          "track": "Stainsby Girls - Live",
+          "duration": 498573
+        },
+        {
+          "track": "Somewhere Between Highway 61 & 49 - Live",
+          "duration": 484373
+        },
+        {
+          "track": "I Can Hear Your Heartbeat - Live",
+          "duration": 647413
+        },
+        {
+          "track": "The Road To Hell - Live",
+          "duration": 608840
+        },
+        {
+          "track": "On The Beach - Live",
+          "duration": 342933
+        },
+        {
+          "track": "Let`s Dance - Live",
+          "duration": 403000
+        },
+        {
+          "track": "Fool (If You Think It`s Over) - Live",
+          "duration": 236026
+        }
+      ]
+    },
+    {
+      "album": "Blue Guitars I - Beginnings",
+      "release_date": "2005-11-20",
+      "id_spotify": "6JuXRi3HUlo9Vc7g1tDGoX",
+      "tracks": [
+        {
+          "track": "West Africa (Instrumental)",
+          "duration": 256040
+        },
+        {
+          "track": "Cry for Home",
+          "duration": 298066
+        },
+        {
+          "track": "The King Who Sold His Own",
+          "duration": 318106
+        },
+        {
+          "track": "White Man Coming",
+          "duration": 241906
+        },
+        {
+          "track": "Where the Blues Come From",
+          "duration": 382120
+        },
+        {
+          "track": "Lord Tell Me It Won`t Be Long",
+          "duration": 298093
+        },
+        {
+          "track": "Work Gang",
+          "duration": 275586
+        },
+        {
+          "track": "Praise the Lord",
+          "duration": 281826
+        },
+        {
+          "track": "Sweet Sunday",
+          "duration": 339040
+        },
+        {
+          "track": "Sing out the Devil",
+          "duration": 368920
+        },
+        {
+          "track": "Boss Man Cut My Chains",
+          "duration": 203706
+        }
+      ]
+    },
+    {
+      "album": "Blue Guitars II - Country Blues",
+      "release_date": "2005-11-20",
+      "id_spotify": "5NTkWg8ospuM0eQiT6Br8k",
+      "tracks": [
+        {
+          "track": "Walkin` Country Blues",
+          "duration": 221786
+        },
+        {
+          "track": "Man Gone Missing",
+          "duration": 280733
+        },
+        {
+          "track": "Can`t Stay Blues",
+          "duration": 298493
+        },
+        {
+          "track": "KKK Blues",
+          "duration": 296000
+        },
+        {
+          "track": "Too Much Drinking",
+          "duration": 291586
+        },
+        {
+          "track": "Catwalk Woman",
+          "duration": 272293
+        },
+        {
+          "track": "If You`ve Got a Friend in Jesus",
+          "duration": 264693
+        },
+        {
+          "track": "Head out on the Highway",
+          "duration": 271453
+        },
+        {
+          "track": "Wild Pony",
+          "duration": 249226
+        },
+        {
+          "track": "Steam Train Blues",
+          "duration": 230693
+        },
+        {
+          "track": "Going up to Memphis",
+          "duration": 260265
+        },
+        {
+          "track": "Somewhere Between Highway 61 & 49",
+          "duration": 366986
+        },
+        {
+          "track": "Ticket for Chicago",
+          "duration": 316626
+        },
+        {
+          "track": "Dance All Night Long",
+          "duration": 273453
+        }
+      ]
+    },
+    {
+      "album": "Blue Guitars III - Louisianna & New Orleans",
+      "release_date": "2005-11-20",
+      "id_spotify": "0HmzCl2dXHMLq9CM8eV5yf",
+      "tracks": [
+        {
+          "track": "Two Days Missing Down the Viper",
+          "duration": 180440
+        },
+        {
+          "track": "Who Cares If I Do",
+          "duration": 275573
+        },
+        {
+          "track": "What Made Me Love You",
+          "duration": 202800
+        },
+        {
+          "track": "You Got Dixie",
+          "duration": 281786
+        },
+        {
+          "track": "One Night with You",
+          "duration": 327520
+        },
+        {
+          "track": "Talking `Bout New Orleans",
+          "duration": 327720
+        },
+        {
+          "track": "Le fleur de la vie",
+          "duration": 195813
+        },
+        {
+          "track": "Catfish Girl",
+          "duration": 231453
+        },
+        {
+          "track": "Only a Fool Plays by the Rules",
+          "duration": 241493
+        },
+        {
+          "track": "Baby Come Home",
+          "duration": 214266
+        },
+        {
+          "track": "Dance avec moi",
+          "duration": 197080
+        },
+        {
+          "track": "L`ete eternal",
+          "duration": 213346
+        }
+      ]
+    },
+    {
+      "album": "Blue Guitars IV - Electric Memphis Blues",
+      "release_date": "2005-11-20",
+      "id_spotify": "71BswLa1QTH3BlhCFqeBfx",
+      "tracks": [
+        {
+          "track": "Electric Guitar",
+          "duration": 284733
+        },
+        {
+          "track": "Electric Memphis Blue",
+          "duration": 257426
+        },
+        {
+          "track": "All Night Long",
+          "duration": 254560
+        },
+        {
+          "track": "Born Bad",
+          "duration": 227893
+        },
+        {
+          "track": "Lets Start Again",
+          "duration": 234920
+        },
+        {
+          "track": "What Im Looking For",
+          "duration": 268386
+        },
+        {
+          "track": "Rules of Love",
+          "duration": 193640
+        },
+        {
+          "track": "What You Done to Me",
+          "duration": 210920
+        },
+        {
+          "track": "Hobo Love Blues",
+          "duration": 219693
+        },
+        {
+          "track": "Pass Me By",
+          "duration": 188680
+        },
+        {
+          "track": "The Soul of My Father`s Shadow",
+          "duration": 234506
+        },
+        {
+          "track": "My Blue World Says Hello",
+          "duration": 248373
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "artists": "Сплин",
+  "albums": [
+    {
+      "album": "Вира и майна",
+      "release_date": "2020-12-11",
+      "id_spotify": "1sSxGRLLiCqwW1zvBCmpph",
+      "tracks": [
+        {
+          "track": "Призрак",
+          "duration": 253533
+        },
+        {
+          "track": "За семью печатями",
+          "duration": 201990
+        },
+        {
+          "track": "Беги, моя жизнь",
+          "duration": 269401
+        },
+        {
+          "track": "Джин",
+          "duration": 241020
+        },
+        {
+          "track": "Фаза",
+          "duration": 226447
+        },
+        {
+          "track": "Дежавю",
+          "duration": 253805
+        },
+        {
+          "track": "Кофейня",
+          "duration": 173353
+        },
+        {
+          "track": "Кесарь",
+          "duration": 273770
+        },
+        {
+          "track": "Фильм ужасов",
+          "duration": 209747
+        },
+        {
+          "track": "Кошмары",
+          "duration": 243446
+        },
+        {
+          "track": "Передайте это Гарри Поттеру, если вдруг его встретите",
+          "duration": 326144
+        }
+      ]
+    },
+    {
+      "album": "Тайком",
+      "release_date": "2019-12-20",
+      "id_spotify": "7j3JRob8N3p8Aav3EmPeJ6",
+      "tracks": [
+        {
+          "track": "Воздушный шар",
+          "duration": 206705
+        },
+        {
+          "track": "Тайком",
+          "duration": 225212
+        },
+        {
+          "track": "Атом",
+          "duration": 296971
+        },
+        {
+          "track": "Гимн",
+          "duration": 371014
+        },
+        {
+          "track": "Волшебная скрипка",
+          "duration": 192039
+        },
+        {
+          "track": "Важная вещь",
+          "duration": 152233
+        },
+        {
+          "track": "Шар воздушный",
+          "duration": 146438
+        }
+      ]
+    },
+    {
+      "album": "Встречная полоса",
+      "release_date": "2018-05-25",
+      "id_spotify": "5gHF6gnE8TtyjNEingeolS",
+      "tracks": [
+        {
+          "track": "Встречная полоса",
+          "duration": 267799
+        },
+        {
+          "track": "На утро",
+          "duration": 243477
+        },
+        {
+          "track": "Чей-то ребёнок",
+          "duration": 189486
+        },
+        {
+          "track": "Испанская инквизиция",
+          "duration": 146003
+        },
+        {
+          "track": "Тепло родного дома",
+          "duration": 232479
+        },
+        {
+          "track": "Булгаковский марш",
+          "duration": 27619
+        },
+        {
+          "track": "Шпионы",
+          "duration": 106754
+        },
+        {
+          "track": "Шаман",
+          "duration": 330798
+        },
+        {
+          "track": "Когда пройдёт 100 лет",
+          "duration": 204695
+        },
+        {
+          "track": "Волк",
+          "duration": 225731
+        },
+        {
+          "track": "Яблоко",
+          "duration": 187921
+        }
+      ]
+    },
+    {
+      "album": "Ключ к шифру",
+      "release_date": "2016-09-23",
+      "id_spotify": "48nxOM6l85yTnCccpjNGJQ",
+      "tracks": [
+        {
+          "track": "Медный грош",
+          "duration": 85640
+        },
+        {
+          "track": "Пирамиды",
+          "duration": 261144
+        },
+        {
+          "track": "Нам, мудрецам",
+          "duration": 297455
+        },
+        {
+          "track": "Храм",
+          "duration": 165280
+        },
+        {
+          "track": "Окраины",
+          "duration": 360200
+        },
+        {
+          "track": "Кит",
+          "duration": 194373
+        },
+        {
+          "track": "Она была так прекрасна",
+          "duration": 167280
+        },
+        {
+          "track": "Джа играет джаз",
+          "duration": 233560
+        },
+        {
+          "track": "Реквием",
+          "duration": 202120
+        },
+        {
+          "track": "Земля уходит из-под ног",
+          "duration": 230613
+        },
+        {
+          "track": "Тревога",
+          "duration": 201600
+        },
+        {
+          "track": "Небесный хор",
+          "duration": 254200
+        },
+        {
+          "track": "Путь на восток",
+          "duration": 189200
+        },
+        {
+          "track": "День за днём",
+          "duration": 220226
+        },
+        {
+          "track": "Череп и кости",
+          "duration": 175720
+        }
+      ]
+    },
+    {
+      "album": "Резонанс, Ч. 2",
+      "release_date": "2014-09-25",
+      "id_spotify": "3lWTVLskFoi5WyZth6ybzu",
+      "tracks": [
+        {
+          "track": "Красота",
+          "duration": 178520
+        },
+        {
+          "track": "Оркестр",
+          "duration": 251715
+        },
+        {
+          "track": "Песня на одном аккорде",
+          "duration": 250853
+        },
+        {
+          "track": "Два плюс один",
+          "duration": 157100
+        },
+        {
+          "track": "Полная луна",
+          "duration": 218096
+        },
+        {
+          "track": "Танцуй!",
+          "duration": 250723
+        },
+        {
+          "track": "Симфония",
+          "duration": 174210
+        },
+        {
+          "track": "Нефть",
+          "duration": 134791
+        },
+        {
+          "track": "Пожар",
+          "duration": 173165
+        },
+        {
+          "track": "Шахматы",
+          "duration": 353018
+        },
+        {
+          "track": "Исчезаем в темноте",
+          "duration": 245211
+        }
+      ]
+    },
+    {
+      "album": "Резонанс, Ч. 1",
+      "release_date": "2014-03-01",
+      "id_spotify": "2IuJRAJsyIoDVxhWVWVG0S",
+      "tracks": [
+        {
+          "track": "Всадник",
+          "duration": 169946
+        },
+        {
+          "track": "Ай лов ю!",
+          "duration": 200520
+        },
+        {
+          "track": "Старый дом",
+          "duration": 159160
+        },
+        {
+          "track": "Мороз по коже",
+          "duration": 184986
+        },
+        {
+          "track": "Мысль",
+          "duration": 232000
+        },
+        {
+          "track": "Есть кто-нибудь живой?",
+          "duration": 190253
+        },
+        {
+          "track": "Рай в шалаше",
+          "duration": 193693
+        },
+        {
+          "track": "Всё наоборот",
+          "duration": 82853
+        },
+        {
+          "track": "Помолчим немного",
+          "duration": 222266
+        },
+        {
+          "track": "Пусть играет музыка!",
+          "duration": 193800
+        },
+        {
+          "track": "Горизонт событий",
+          "duration": 155533
+        },
+        {
+          "track": "Среди зимы",
+          "duration": 162826
+        },
+        {
+          "track": "Дверной глазок",
+          "duration": 323626
+        },
+        {
+          "track": "Подводная песня",
+          "duration": 208146
+        }
+      ]
+    },
+    {
+      "album": "Черновики",
+      "release_date": "2013-09-25",
+      "id_spotify": "5xjHDp56ACWBUXFq2fI15k",
+      "tracks": [
+        {
+          "track": "Кто-то не успел",
+          "duration": 194586
+        },
+        {
+          "track": "Мне 20 лет",
+          "duration": 152653
+        },
+        {
+          "track": "Конец прекрасной эпохи",
+          "duration": 349240
+        },
+        {
+          "track": "Бонни и Клайд",
+          "duration": 192520
+        },
+        {
+          "track": "Загладь вину свою",
+          "duration": 115546
+        },
+        {
+          "track": "Паузы",
+          "duration": 245493
+        },
+        {
+          "track": "Корень мандрагоры",
+          "duration": 151573
+        },
+        {
+          "track": "Небо в алмазах",
+          "duration": 165760
+        },
+        {
+          "track": "Мария и Хуана",
+          "duration": 285013
+        },
+        {
+          "track": "Домовой",
+          "duration": 215253
+        },
+        {
+          "track": "Романс",
+          "duration": 151066
+        },
+        {
+          "track": "Скоро будет солнечно",
+          "duration": 260493
+        },
+        {
+          "track": "Двое не спят",
+          "duration": 203746
+        },
+        {
+          "track": "Рождество",
+          "duration": 237426
+        },
+        {
+          "track": "Пурга-Кочерга",
+          "duration": 95746
+        },
+        {
+          "track": "Двуречье (Я ничего не скрыл)",
+          "duration": 251680
+        },
+        {
+          "track": "Подводная лодка",
+          "duration": 173200
+        },
+        {
+          "track": "Аделаида (БГ)",
+          "duration": 216466
+        },
+        {
+          "track": "Братские могилы",
+          "duration": 134866
+        },
+        {
+          "track": "Сумасшедший дом",
+          "duration": 87200
+        }
+      ]
+    },
+    {
+      "album": "Обман зрения",
+      "release_date": "2012-10-08",
+      "id_spotify": "6qxlSYECKCaNs3nnVBtnv5",
+      "tracks": [
+        {
+          "track": "Увертюра",
+          "duration": 103986
+        },
+        {
+          "track": "Летела жизнь",
+          "duration": 150520
+        },
+        {
+          "track": "Чёрная Волга",
+          "duration": 166613
+        },
+        {
+          "track": "Лестница",
+          "duration": 138666
+        },
+        {
+          "track": "Страшная тайна",
+          "duration": 144226
+        },
+        {
+          "track": "Петербургская свадьба",
+          "duration": 260213
+        },
+        {
+          "track": "Дочь самурая",
+          "duration": 216613
+        },
+        {
+          "track": "Фибоначчи",
+          "duration": 207826
+        },
+        {
+          "track": "В мире иллюзий",
+          "duration": 178666
+        },
+        {
+          "track": "Праздник - Другая точка зрения",
+          "duration": 159946
+        },
+        {
+          "track": "Ковш",
+          "duration": 180986
+        },
+        {
+          "track": "Солнце взойдёт",
+          "duration": 215040
+        },
+        {
+          "track": "Чудак",
+          "duration": 149133
+        },
+        {
+          "track": "Волшебное слово",
+          "duration": 264429
+        }
+      ]
+    },
+    {
+      "album": "Сигнал из космоса",
+      "release_date": "2009-09-22",
+      "id_spotify": "6Z8io8bugckAXnWbKSBR3n",
+      "tracks": [
+        {
+          "track": "Настройка звука",
+          "duration": 160080
+        },
+        {
+          "track": "Дыши легко",
+          "duration": 233706
+        },
+        {
+          "track": "Добро пожаловать!",
+          "duration": 251093
+        },
+        {
+          "track": "Больше никакого рок-н-ролла",
+          "duration": 252640
+        },
+        {
+          "track": "Вниз головой",
+          "duration": 185493
+        },
+        {
+          "track": "Чердак",
+          "duration": 247440
+        },
+        {
+          "track": "Зелёная песня",
+          "duration": 210133
+        },
+        {
+          "track": "Камень",
+          "duration": 299360
+        },
+        {
+          "track": "3007",
+          "duration": 131120
+        },
+        {
+          "track": "Без тормозов",
+          "duration": 194000
+        },
+        {
+          "track": "Корабль ждёт!",
+          "duration": 164746
+        },
+        {
+          "track": "Человек не спал",
+          "duration": 172640
+        },
+        {
+          "track": "Ковчег",
+          "duration": 212853
+        },
+        {
+          "track": "Выпусти меня отсюда",
+          "duration": 191040
+        },
+        {
+          "track": "Письмо",
+          "duration": 149426
+        },
+        {
+          "track": "Всё так странно",
+          "duration": 123613
+        },
+        {
+          "track": "Вальс",
+          "duration": 187266
+        },
+        {
+          "track": "До встречи!",
+          "duration": 262493
+        }
+      ]
+    },
+    {
+      "album": "Раздвоение Личности",
+      "release_date": "2007-02-07",
+      "id_spotify": "6C3pAROs14EZeLDgo1dvvu",
+      "tracks": [
+        {
+          "track": "Мелькнула Чья-То Тень",
+          "duration": 196493
+        },
+        {
+          "track": "Скажи",
+          "duration": 189600
+        },
+        {
+          "track": "Матч",
+          "duration": 168106
+        },
+        {
+          "track": "На Счастье",
+          "duration": 161173
+        },
+        {
+          "track": "Волна",
+          "duration": 208293
+        },
+        {
+          "track": "Лепесток",
+          "duration": 217933
+        },
+        {
+          "track": "Император",
+          "duration": 75173
+        },
+        {
+          "track": "Бетховен",
+          "duration": 161226
+        },
+        {
+          "track": "Маяк",
+          "duration": 227906
+        },
+        {
+          "track": "Праздник",
+          "duration": 137493
+        },
+        {
+          "track": "Сухари И Сушки",
+          "duration": 329840
+        },
+        {
+          "track": "Мобильный",
+          "duration": 202746
+        },
+        {
+          "track": "Колокол",
+          "duration": 215773
+        },
+        {
+          "track": "Пробки",
+          "duration": 241720
+        },
+        {
+          "track": "Мамма Миа",
+          "duration": 179493
+        },
+        {
+          "track": "Прочь Из Моей Головы",
+          "duration": 199080
+        },
+        {
+          "track": "Сын",
+          "duration": 110306
+        }
+      ]
+    }
+  ]
+}
