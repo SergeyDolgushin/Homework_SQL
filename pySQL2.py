@@ -108,16 +108,6 @@ print(sel)
 
 
 # 9 название альбомов, содержащих наименьшее количество треков.
-sel = connection.execute("""
-        SELECT album_name, COUNT(album_id) FROM albums al
-        JOIN tracks tr ON al.id = tr.album_id
-        GROUP BY album_name
-        ORDER BY COUNT(album_id)
-        LIMIT 1;
-        """).fetchmany(100)
-print()
-print(sel)
-# 
 
 sel = connection.execute("""
         SELECT album_name, COUNT(album_id) FROM albums al
